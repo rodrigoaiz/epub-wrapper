@@ -1,69 +1,141 @@
 ---
+import navigationData from '@/data/megamenu.json';
+import type { MenuItem, NavigationData } from '@/types/navigation';
+
 const { title } = Astro.props;
+const PATH_LIBRO = '/OEBPS/';
+
+const renderMenuItem = (item: MenuItem): string => {
+  const href = item.href.startsWith('/')
+    ? PATH_LIBRO + item.href.slice(1)
+    : PATH_LIBRO + item.href;
+
+  const hasChildren = Array.isArray(item.children) && item.children.length > 0;
+
+  const childrenContent = hasChildren
+    ? `<ol class="submenu hidden pl-4 border-l border-gray-300 text-sm space-y-1">
+         ${item.children!.map(child => renderMenuItem(child)).join('')}
+       </ol>`
+    : '';
+
+  if (hasChildren) {
+    return `
+      <li class="has-children">
+        <button type="button" class="menu-toggle flex justify-between items-center w-full text-left px-2 py-1 text-gray-700 hover:bg-gray-100 rounded transition">
+          <span>${item.title}</span>
+          <span class="chevron inline-block transform transition-transform duration-300 rotate-0">▶</span>
+        </button>
+        ${childrenContent}
+      </li>
+    `;
+  }
+
+  return `
+    <li>
+      <a href="${href}" class="block px-2 py-1 text-gray-700 hover:bg-gray-100 rounded transition">${item.title}</a>
+    </li>
+  `;
+};
+
 ---
 
-<div class="toc-wrapper">
+<header class="toc-wrapper">
   <h1>{title}</h1>
   <nav id="toc">
-    <h2>Contents</h2>
-    <ol>
-      <li><a href="cg_cirugia-4.xhtml">Índice</a></li>
-      <li><a href="cg_cirugia-6.xhtml">Prólogo</a></li>
-      <li><a href="cg_cirugia-8.xhtml">Agradecimientos</a></li>
-      <li><a href="cg_cirugia-9.xhtml">¿Cómo utilizar este libro?</a></li>
-      <li><a href="cg_cirugia-12.xhtml">Introducción</a></li>
-      <li><a href="t1_1_cirugia-1.xhtml">Patología de la vía biliar</a>
-        <ol>
-          <li><a href="t1_1_cirugia-2.xhtml">Colecistitis aguda y crónica</a></li>
-          <li><a href="t1_2_cirugia-1.xhtml">Ictericia obstructiva:</a></li>
-          <li><a href="t1_2_cirugia-1.xhtml">colangitis y coledocolitiasis</a></li>
-          <li><a href="t1_3_cirugia-1.xhtml">Tumores de vesícula y vías biliares: cáncer de vesícula biliar y colangiocarcinoma</a></li>
-        </ol>
-      </li>
-      <li><a href="t2_1_cirugia-1.xhtml">Patologías de la pared abdominal</a>
-        <ol>
-          <li><a href="t2_1_cirugia-2.xhtml">Hernia femoral</a></li>
-          <li><a href="t2_2_cirugia-1.xhtml">Hernia epigástrica</a></li>
-          <li><a href="t2_3_cirugia-1.xhtml">Hernia inguinal</a></li>
-          <li><a href="t2_4_cirugia-1.xhtml">Hernia umbilical</a></li>
-        </ol>
-      </li>
-      <li><a href="t3_1_cirugia-1.xhtml">Síndrome doloroso abdominal</a>
-        <ol>
-          <li><a href="t3_1_cirugia-2.xhtml">Apendicitis aguda</a></li>
-          <li><a href="t3_2_1_cirugia-1.xhtml">Pancreatitis aguda</a></li>
-          <li><a href="t3_2_2_cirugia-1.xhtml">Pancreatitis crónica</a></li>
-          <li><a href="t3_3_cirugia-1.xhtml">Oclusión intestinal (OI): mecánica y no mecánica</a></li>
-          <li><a href="t3_4_cirugia-1.xhtml">Trombosis mesentérica</a></li>
-        </ol>
-      </li>
-      <li><a href="compendio_cirugia-1.xhtml">Compendio de imágenes</a></li>
-      <li><a href="contraportada_cirugia-1.xhtml">Fuentes de consulta</a></li>
-      <li><a href="contraportada_cirugia-29.xhtml">Directorio</a></li>
-      <li><a href="contraportada_cirugia-31.xhtml">Créditos</a></li>
-    </ol>
+    <ol set:html={navigationData.items.map(item => renderMenuItem(item)).join('')} />
   </nav>
-</div>
+</header>
 
 <style>
-.toc-wrapper {
-  padding: 20px;
-  background-color: #f9f9f9;
+  .toc-wrapper {
+  background: #f9f9f9;
+  padding: 1rem;
   border: 1px solid #ddd;
-  border-radius: 5px;
+  max-width: 300px;
+  font-family: sans-serif;
 }
 
-.toc-wrapper h1 {
-  font-size: 2em;
-  margin-bottom: 20px;
+#toc ol {
+  list-style: none;
+  padding-left: 1rem;
+  margin: 0;
 }
 
-.toc-wrapper nav {
-  margin-bottom: 20px;
+#toc li {
+  margin-bottom: 0.5rem;
 }
 
-.toc-wrapper ol {
-  list-style-type: decimal;
-  padding-left: 20px;
+.menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+.menu-item a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.toggle-submenu {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 0.25rem;
+}
+
+.chevron {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.submenu {
+  margin-top: 0.3rem;
+  padding-left: 1rem;
+  border-left: 2px solid #ccc;
+}
+
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.menu-toggle').forEach(button => {
+    button.addEventListener('click', () => {
+      const li = button.closest('li');
+      if (!li) return;
+
+      const submenu = li.querySelector('.submenu') as HTMLElement | null;
+      const chevron = button.querySelector('.chevron') as HTMLElement | null;
+
+      const isCurrentlyExpanded = li.classList.contains('expanded'); // Check state BEFORE changing anything
+
+      // Cierra todos los demás elementos expandidos
+      document.querySelectorAll('li.expanded').forEach(openLi => {
+        // No cierres el que acabamos de clickear si lo vamos a abrir
+        // O mejor, ciérralos todos primero y luego abre el actual si es necesario.
+        openLi.classList.remove('expanded');
+        const openSubmenu = openLi.querySelector('.submenu') as HTMLElement | null;
+        const openChevron = openLi.querySelector('.chevron') as HTMLElement | null;
+        if (openSubmenu) openSubmenu.classList.add('hidden');
+        if (openChevron) {
+          // Rota de vuelta al estado inicial (derecha)
+          openChevron.classList.remove('rotate-90');
+          openChevron.classList.add('rotate-0');
+        }
+      });
+
+      // Si el elemento clickeado NO estaba expandido, expándelo ahora
+      if (!isCurrentlyExpanded) {
+        li.classList.add('expanded');
+        if (submenu) submenu.classList.remove('hidden');
+        if (chevron) {
+          // Rota al estado expandido (abajo)
+          chevron.classList.remove('rotate-0');
+          chevron.classList.add('rotate-90');
+        }
+      }
+      // Si SÍ estaba expandido, el bucle anterior ya lo cerró y rotó el chevron.
+    });
+  });
+});
+</script>

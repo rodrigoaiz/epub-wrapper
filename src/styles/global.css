@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer components {
+  li.expanded .chevron {
+    @apply rotate-0;
+  }
+
+}

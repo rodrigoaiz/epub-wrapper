@@ -1,0 +1,111 @@
+{
+  "title": "Contents",
+  "items": [
+    {
+      "title": "Índice",
+      "href": "cg_cirugia-4.xhtml"
+    },
+    {
+      "title": "Prólogo",
+      "href": "cg_cirugia-6.xhtml"
+    },
+    {
+      "title": "Agradecimientos",
+      "href": "cg_cirugia-8.xhtml"
+    },
+    {
+      "title": "¿Cómo utilizar este libro?",
+      "href": "cg_cirugia-9.xhtml"
+    },
+    {
+      "title": "Introducción",
+      "href": "cg_cirugia-12.xhtml"
+    },
+    {
+      "title": "Patología de la vía biliar",
+      "href": "t1_1_cirugia-1.xhtml",
+      "children": [
+        {
+          "title": "Colecistitis aguda y crónica",
+          "href": "t1_1_cirugia-2.xhtml"
+        },
+        {
+          "title": "Ictericia obstructiva",
+          "href": "t1_2_cirugia-1.xhtml"
+        },
+        {
+          "title": "colangitis y coledocolitiasis",
+          "href": "t1_2_cirugia-1.xhtml"
+        },
+        {
+          "title": "Tumores de vesícula y vías biliares: cáncer de vesícula biliar y colangiocarcinoma",
+          "href": "t1_3_cirugia-1.xhtml"
+        }
+      ]
+    },
+    {
+      "title": "Patologías de la pared abdominal",
+      "href": "t2_1_cirugia-1.xhtml",
+      "children": [
+        {
+          "title": "Hernia femoral",
+          "href": "t2_1_cirugia-2.xhtml"
+        },
+        {
+          "title": "Hernia epigástrica",
+          "href": "t2_2_cirugia-1.xhtml"
+        },
+        {
+          "title": "Hernia inguinal",
+          "href": "t2_3_cirugia-1.xhtml"
+        },
+        {
+          "title": "Hernia umbilical",
+          "href": "t2_4_cirugia-1.xhtml"
+        }
+      ]
+    },
+    {
+      "title": "Síndrome doloroso abdominal",
+      "href": "t3_1_cirugia-1.xhtml",
+      "children": [
+        {
+          "title": "Apendicitis aguda",
+          "href": "t3_1_cirugia-2.xhtml"
+        },
+        {
+          "title": "Pancreatitis aguda",
+          "href": "t3_2_1_cirugia-1.xhtml"
+        },
+        {
+          "title": "Pancreatitis crónica",
+          "href": "t3_2_2_cirugia-1.xhtml"
+        },
+        {
+          "title": "Oclusión intestinal (OI): mecánica y no mecánica",
+          "href": "t3_3_cirugia-1.xhtml"
+        },
+        {
+          "title": "Trombosis mesentérica",
+          "href": "t3_4_cirugia-1.xhtml"
+        }
+      ]
+    },
+    {
+      "title": "Compendio de imágenes",
+      "href": "compendio_cirugia-1.xhtml"
+    },
+    {
+      "title": "Fuentes de consulta",
+      "href": "contraportada_cirugia-1.xhtml"
+    },
+    {
+      "title": "Directorio",
+      "href": "contraportada_cirugia-29.xhtml"
+    },
+    {
+      "title": "Créditos",
+      "href": "contraportada_cirugia-31.xhtml"
+    }
+  ]
+}
