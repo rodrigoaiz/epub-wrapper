@@ -96,46 +96,63 @@ const renderMenuItem = (item: MenuItem): string => {
 }
 
 </style>
-
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('.menu-toggle').forEach(button => {
-    button.addEventListener('click', () => {
-      const li = button.closest('li');
-      if (!li) return;
+    // Configurar los toggles del menú
+    const menuToggles = document.querySelectorAll('.menu-toggle');
 
-      const submenu = li.querySelector('.submenu') as HTMLElement | null;
-      const chevron = button.querySelector('.chevron') as HTMLElement | null;
+    menuToggles.forEach(button => {
+      button.addEventListener('click', () => {
+        const li = button.closest('li');
+        if (!li) return;
 
-      const isCurrentlyExpanded = li.classList.contains('expanded'); // Check state BEFORE changing anything
+        const submenu = li.querySelector('.submenu') as HTMLElement | null;
+        const chevron = button.querySelector('.chevron') as HTMLElement | null;
 
-      // Cierra todos los demás elementos expandidos
-      document.querySelectorAll('li.expanded').forEach(openLi => {
-        // No cierres el que acabamos de clickear si lo vamos a abrir
-        // O mejor, ciérralos todos primero y luego abre el actual si es necesario.
-        openLi.classList.remove('expanded');
-        const openSubmenu = openLi.querySelector('.submenu') as HTMLElement | null;
-        const openChevron = openLi.querySelector('.chevron') as HTMLElement | null;
-        if (openSubmenu) openSubmenu.classList.add('hidden');
-        if (openChevron) {
-          // Rota de vuelta al estado inicial (derecha)
-          openChevron.classList.remove('rotate-90');
-          openChevron.classList.add('rotate-0');
+        const isCurrentlyExpanded = li.classList.contains('expanded'); // Check state BEFORE changing anything
+
+        // Cierra todos los demás elementos expandidos
+        document.querySelectorAll('li.expanded').forEach(openLi => {
+          openLi.classList.remove('expanded');
+          const openSubmenu = openLi.querySelector('.submenu') as HTMLElement | null;
+          const openChevron = openLi.querySelector('.chevron') as HTMLElement | null;
+          if (openSubmenu) openSubmenu.classList.add('hidden');
+          if (openChevron) {
+            // Rota de vuelta al estado inicial (derecha)
+            openChevron.classList.remove('rotate-90');
+            openChevron.classList.add('rotate-0');
+          }
+        });
+
+        // Si el elemento clickeado NO estaba expandido, expándelo ahora
+        if (!isCurrentlyExpanded) {
+          li.classList.add('expanded');
+          if (submenu) submenu.classList.remove('hidden');
+          if (chevron) {
+            // Rota al estado expandido (abajo)
+            chevron.classList.remove('rotate-0');
+            chevron.classList.add('rotate-90');
+          }
+        }
+        // Si SÍ estaba expandido, el bucle anterior ya lo cerró y rotó el chevron.
+      });
+    });
+
+    // Configurar los enlaces de navegación
+    const navigationLinks = document.querySelectorAll('a[href^="/OEBPS/"]');
+
+    navigationLinks.forEach(link => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const href = link.getAttribute('href');
+        if (href) {
+          // Envía un evento personalizado que el componente ContentViewer escuchará
+          const navEvent = new CustomEvent('navigation:change', {
+            detail: { path: href }
+          });
+          window.dispatchEvent(navEvent);
         }
       });
-
-      // Si el elemento clickeado NO estaba expandido, expándelo ahora
-      if (!isCurrentlyExpanded) {
-        li.classList.add('expanded');
-        if (submenu) submenu.classList.remove('hidden');
-        if (chevron) {
-          // Rota al estado expandido (abajo)
-          chevron.classList.remove('rotate-0');
-          chevron.classList.add('rotate-90');
-        }
-      }
-      // Si SÍ estaba expandido, el bucle anterior ya lo cerró y rotó el chevron.
     });
   });
-});
 </script>
