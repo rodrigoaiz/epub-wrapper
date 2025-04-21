@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 19.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Cirugía: volumen I</dc:title>
+		<dc:subject>Cirugía, patología de la vía biliar, colecistitis aguda y crónica, ictericia obstructiva: colangitis y coledocolitiasis, tumores de vesícula y vías biliares: cáncer de vesícula biliar y colangiocarcinoma, patologías de la pared abdominal, hernia femoral, hernia epigástrica, hernia inguinal, hernia umbilical, síndrome doloroso abdominal, apendicitis aguda, pancreatitis aguda, pancreatitis crónica, oclusión intestinal (OI): mecánica y no mecánica, trombosis mesentérica.</dc:subject>
+		<dc:description>Cirugía muestra de la manera más completa los conocimientos adquiridos a lo largo de la carrera y pretende ser útil para diferentes generaciones de médicos, en particular para aquellos jóvenes que se encuentran en el servicio social y que buscan los conocimientos y las herramientas básicas para mantenerse actualizados y con ello resolver problemas cotidianos en el ejercicio de la medicina y la cirugía general.</dc:description>
+		<dc:publisher>CUAED</dc:publisher>
+		<dc:date>2019-04</dc:date>
+		<dc:rights>Facultad de Medicina</dc:rights>
+		<dc:language>es-ES</dc:language>
+		<meta property="dcterms:modified">2024-03-15T16:12:19Z</meta>
+		<dc:identifier id="bookid">urn:uuid:6B08382D-C55C-4051-805D-392D18E52B1B</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">portrait</meta>
+		<meta property="rendition:spread">none</meta>
+	</metadata>
+	<manifest>
+		<item id="cg_cirugia-1" href="cg_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-2" href="cg_cirugia-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-3" href="cg_cirugia-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-4" href="cg_cirugia-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-5" href="cg_cirugia-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-6" href="cg_cirugia-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-7" href="cg_cirugia-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-8" href="cg_cirugia-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-9" href="cg_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="cg_cirugia-10" href="cg_cirugia-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="cg_cirugia-11" href="cg_cirugia-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="cg_cirugia-12" href="cg_cirugia-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="cg_cirugia-13" href="cg_cirugia-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-14" href="cg_cirugia-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="cg_cirugia-15" href="cg_cirugia-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_1_cirugia-1" href="t1_1_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_1_cirugia-2" href="t1_1_cirugia-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_1_cirugia-3" href="t1_1_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-4" href="t1_1_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-5" href="t1_1_cirugia-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_1_cirugia-6" href="t1_1_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-7" href="t1_1_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-8" href="t1_1_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-9" href="t1_1_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-10" href="t1_1_cirugia-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-11" href="t1_1_cirugia-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-12" href="t1_1_cirugia-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-13" href="t1_1_cirugia-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_1_cirugia-14" href="t1_1_cirugia-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_1_cirugia-15" href="t1_1_cirugia-15.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-16" href="t1_1_cirugia-16.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_1_cirugia-17" href="t1_1_cirugia-17.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-1" href="t1_2_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_2_cirugia-2" href="t1_2_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-3" href="t1_2_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-4" href="t1_2_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-5" href="t1_2_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-6" href="t1_2_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-7" href="t1_2_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-8" href="t1_2_cirugia-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_2_cirugia-9" href="t1_2_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-10" href="t1_2_cirugia-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-11" href="t1_2_cirugia-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-12" href="t1_2_cirugia-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_2_cirugia-13" href="t1_2_cirugia-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_3_cirugia-1" href="t1_3_cirugia-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-2" href="t1_3_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-3" href="t1_3_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-4" href="t1_3_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-5" href="t1_3_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-6" href="t1_3_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-7" href="t1_3_cirugia-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="t1_3_cirugia-8" href="t1_3_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-9" href="t1_3_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-10" href="t1_3_cirugia-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-11" href="t1_3_cirugia-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-12" href="t1_3_cirugia-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t1_3_cirugia-13" href="t1_3_cirugia-13.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_1_cirugia-1" href="t2_1_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t2_1_cirugia-2" href="t2_1_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_1_cirugia-3" href="t2_1_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_1_cirugia-4" href="t2_1_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_1_cirugia-5" href="t2_1_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_1_cirugia-6" href="t2_1_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_1_cirugia-7" href="t2_1_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_1_cirugia-8" href="t2_1_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_2_cirugia-1" href="t2_2_cirugia-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_2_cirugia-2" href="t2_2_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_2_cirugia-3" href="t2_2_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_2_cirugia-4" href="t2_2_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_2_cirugia-5" href="t2_2_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_2_cirugia-6" href="t2_2_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_2_cirugia-7" href="t2_2_cirugia-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="t2_3_cirugia-1" href="t2_3_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t2_3_cirugia-2" href="t2_3_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_3_cirugia-3" href="t2_3_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_3_cirugia-4" href="t2_3_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_3_cirugia-5" href="t2_3_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_3_cirugia-6" href="t2_3_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_3_cirugia-7" href="t2_3_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_3_cirugia-8" href="t2_3_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_3_cirugia-9" href="t2_3_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-1" href="t2_4_cirugia-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-2" href="t2_4_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-3" href="t2_4_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-4" href="t2_4_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-5" href="t2_4_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-6" href="t2_4_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-7" href="t2_4_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-8" href="t2_4_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t2_4_cirugia-9" href="t2_4_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-1" href="t3_1_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_1_cirugia-2" href="t3_1_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-3" href="t3_1_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-4" href="t3_1_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-5" href="t3_1_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-6" href="t3_1_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-7" href="t3_1_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-8" href="t3_1_cirugia-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_1_cirugia-9" href="t3_1_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-10" href="t3_1_cirugia-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-11" href="t3_1_cirugia-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-12" href="t3_1_cirugia-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-13" href="t3_1_cirugia-13.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-14" href="t3_1_cirugia-14.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-15" href="t3_1_cirugia-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_1_cirugia-16" href="t3_1_cirugia-16.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-17" href="t3_1_cirugia-17.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-18" href="t3_1_cirugia-18.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_1_cirugia-19" href="t3_1_cirugia-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_1_cirugia-20" href="t3_1_cirugia-20.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-1" href="t3_2_1_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_2_1_cirugia-2" href="t3_2_1_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-3" href="t3_2_1_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-4" href="t3_2_1_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-5" href="t3_2_1_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-6" href="t3_2_1_cirugia-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_2_1_cirugia-7" href="t3_2_1_cirugia-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_2_1_cirugia-8" href="t3_2_1_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-9" href="t3_2_1_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-10" href="t3_2_1_cirugia-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-11" href="t3_2_1_cirugia-11.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-12" href="t3_2_1_cirugia-12.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-13" href="t3_2_1_cirugia-13.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_1_cirugia-14" href="t3_2_1_cirugia-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_2_2_cirugia-1" href="t3_2_2_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_2_2_cirugia-2" href="t3_2_2_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-3" href="t3_2_2_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-4" href="t3_2_2_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-5" href="t3_2_2_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-6" href="t3_2_2_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-7" href="t3_2_2_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-8" href="t3_2_2_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-9" href="t3_2_2_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-10" href="t3_2_2_cirugia-10.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_2_2_cirugia-11" href="t3_2_2_cirugia-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_3_cirugia-1" href="t3_3_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_3_cirugia-2" href="t3_3_cirugia-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_3_cirugia-3" href="t3_3_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_3_cirugia-4" href="t3_3_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_3_cirugia-5" href="t3_3_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_3_cirugia-6" href="t3_3_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_3_cirugia-7" href="t3_3_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_3_cirugia-8" href="t3_3_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_3_cirugia-9" href="t3_3_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-1" href="t3_4_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="t3_4_cirugia-2" href="t3_4_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-3" href="t3_4_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-4" href="t3_4_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-5" href="t3_4_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-6" href="t3_4_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-7" href="t3_4_cirugia-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-8" href="t3_4_cirugia-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-9" href="t3_4_cirugia-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="t3_4_cirugia-10" href="t3_4_cirugia-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="compendio_cirugia-1" href="compendio_cirugia-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="compendio_cirugia-2" href="compendio_cirugia-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="compendio_cirugia-3" href="compendio_cirugia-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="compendio_cirugia-4" href="compendio_cirugia-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="compendio_cirugia-5" href="compendio_cirugia-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="compendio_cirugia-6" href="compendio_cirugia-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="contraportada_cirugia-1" href="contraportada_cirugia-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-2" href="contraportada_cirugia-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-3" href="contraportada_cirugia-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-4" href="contraportada_cirugia-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-5" href="contraportada_cirugia-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-6" href="contraportada_cirugia-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-7" href="contraportada_cirugia-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-8" href="contraportada_cirugia-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-9" href="contraportada_cirugia-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-10" href="contraportada_cirugia-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-11" href="contraportada_cirugia-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-12" href="contraportada_cirugia-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-13" href="contraportada_cirugia-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-14" href="contraportada_cirugia-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-15" href="contraportada_cirugia-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-16" href="contraportada_cirugia-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-17" href="contraportada_cirugia-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-18" href="contraportada_cirugia-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-19" href="contraportada_cirugia-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-20" href="contraportada_cirugia-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-21" href="contraportada_cirugia-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-22" href="contraportada_cirugia-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-23" href="contraportada_cirugia-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-24" href="contraportada_cirugia-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-25" href="contraportada_cirugia-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-26" href="contraportada_cirugia-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-27" href="contraportada_cirugia-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-28" href="contraportada_cirugia-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-29" href="contraportada_cirugia-29.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-30" href="contraportada_cirugia-30.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-31" href="contraportada_cirugia-31.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-32" href="contraportada_cirugia-32.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-33" href="contraportada_cirugia-33.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-34" href="contraportada_cirugia-34.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-35" href="contraportada_cirugia-35.xhtml" media-type="application/xhtml+xml" />
+		<item id="contraportada_cirugia-36" href="contraportada_cirugia-36.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles_0.css" href="css/idGeneratedStyles_0.css" media-type="text/css" />
+		<item id="idGeneratedStyles_1.css" href="css/idGeneratedStyles_1.css" media-type="text/css" />
+		<item id="idGeneratedStyles_2.css" href="css/idGeneratedStyles_2.css" media-type="text/css" />
+		<item id="idGeneratedStyles_3.css" href="css/idGeneratedStyles_3.css" media-type="text/css" />
+		<item id="idGeneratedStyles_4.css" href="css/idGeneratedStyles_4.css" media-type="text/css" />
+		<item id="idGeneratedStyles_5.css" href="css/idGeneratedStyles_5.css" media-type="text/css" />
+		<item id="idGeneratedStyles_6.css" href="css/idGeneratedStyles_6.css" media-type="text/css" />
+		<item id="idGeneratedStyles_7.css" href="css/idGeneratedStyles_7.css" media-type="text/css" />
+		<item id="idGeneratedStyles_8.css" href="css/idGeneratedStyles_8.css" media-type="text/css" />
+		<item id="idGeneratedStyles_9.css" href="css/idGeneratedStyles_9.css" media-type="text/css" />
+		<item id="idGeneratedStyles_10.css" href="css/idGeneratedStyles_10.css" media-type="text/css" />
+		<item id="idGeneratedStyles_11.css" href="css/idGeneratedStyles_11.css" media-type="text/css" />
+		<item id="idGeneratedStyles_12.css" href="css/idGeneratedStyles_12.css" media-type="text/css" />
+		<item id="idGeneratedStyles_13.css" href="css/idGeneratedStyles_13.css" media-type="text/css" />
+		<item id="idGeneratedStyles_14.css" href="css/idGeneratedStyles_14.css" media-type="text/css" />
+		<item id="idGeneratedStyles_15.css" href="css/idGeneratedStyles_15.css" media-type="text/css" />
+		<item id="Arial-BoldItalicMT.ttf" href="font/Arial-BoldItalicMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Arial-BoldMT.ttf" href="font/Arial-BoldMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="Arial-ItalicMT.ttf" href="font/Arial-ItalicMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="ArialMT.ttf" href="font/ArialMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.1._Colecistitis_img1.png" href="image/1.1._Colecistitis_img1.png" media-type="image/png" />
+		<item id="x1.1._Colecistitis_img2.png" href="image/1.1._Colecistitis_img2.png" media-type="image/png" />
+		<item id="x1.1._Colecistitis_img3.png" href="image/1.1._Colecistitis_img3.png" media-type="image/png" />
+		<item id="x1.1._Colecistitis_img4.png" href="image/1.1._Colecistitis_img4.png" media-type="image/png" />
+		<item id="x1.1._Colecistitis_img11.png" href="image/1.1._Colecistitis_img11.png" media-type="image/png" />
+		<item id="x1.1._Colecistitis_img21.png" href="image/1.1._Colecistitis_img21.png" media-type="image/png" />
+		<item id="x1.1._Colecistitis_img31.png" href="image/1.1._Colecistitis_img31.png" media-type="image/png" />
+		<item id="x1.1._Colecistitis_img41.png" href="image/1.1._Colecistitis_img41.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img1.png" href="image/1.2._Ictericia_img1.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img2.png" href="image/1.2._Ictericia_img2.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img3.png" href="image/1.2._Ictericia_img3.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img4.png" href="image/1.2._Ictericia_img4.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img5.png" href="image/1.2._Ictericia_img5.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img6.png" href="image/1.2._Ictericia_img6.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img11.png" href="image/1.2._Ictericia_img11.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img21.png" href="image/1.2._Ictericia_img21.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img31.png" href="image/1.2._Ictericia_img31.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img41.png" href="image/1.2._Ictericia_img41.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img51.png" href="image/1.2._Ictericia_img51.png" media-type="image/png" />
+		<item id="x1.2._Ictericia_img61.png" href="image/1.2._Ictericia_img61.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img1.png" href="image/1.3._Tumores_vesicula_img1.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img2_1.png" href="image/1.3._Tumores_vesicula_img2_1.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img2_2.png" href="image/1.3._Tumores_vesicula_img2_2.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img2_11.png" href="image/1.3._Tumores_vesicula_img2_11.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img2_21.png" href="image/1.3._Tumores_vesicula_img2_21.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img3_1.png" href="image/1.3._Tumores_vesicula_img3_1.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img3_2.png" href="image/1.3._Tumores_vesicula_img3_2.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img3_11.png" href="image/1.3._Tumores_vesicula_img3_11.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img3_21.png" href="image/1.3._Tumores_vesicula_img3_21.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img4.png" href="image/1.3._Tumores_vesicula_img4.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img5.png" href="image/1.3._Tumores_vesicula_img5.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_IMG6.png" href="image/1.3._Tumores_vesicula_IMG6.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img11.png" href="image/1.3._Tumores_vesicula_img11.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img41.png" href="image/1.3._Tumores_vesicula_img41.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img51.png" href="image/1.3._Tumores_vesicula_img51.png" media-type="image/png" />
+		<item id="x1.3._Tumores_vesicula_img61.png" href="image/1.3._Tumores_vesicula_img61.png" media-type="image/png" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x2.1.1_img1.png" href="image/2.1.1_img1.png" media-type="image/png" />
+		<item id="x2.1.1_img2.png" href="image/2.1.1_img2.png" media-type="image/png" />
+		<item id="x2.1.1_img21.png" href="image/2.1.1_img21.png" media-type="image/png" />
+		<item id="x2.1.1._Hernia_femoral_img1.png" href="image/2.1.1._Hernia_femoral_img1.png" media-type="image/png" />
+		<item id="x2.1.1._Hernia_femoral_img2.png" href="image/2.1.1._Hernia_femoral_img2.png" media-type="image/png" />
+		<item id="x2.1.1._Hernia_femoral_img11.png" href="image/2.1.1._Hernia_femoral_img11.png" media-type="image/png" />
+		<item id="x2.1.1._Hernia_femoral_img21.png" href="image/2.1.1._Hernia_femoral_img21.png" media-type="image/png" />
+		<item id="x2.1.2._Hernia_epigastrica_img1.png" href="image/2.1.2._Hernia_epigastrica_img1.png" media-type="image/png" />
+		<item id="x2.1.2._Hernia_epigastrica_img2.png" href="image/2.1.2._Hernia_epigastrica_img2.png" media-type="image/png" />
+		<item id="x2.1.2._Hernia_epigastrica_IMG3.png" href="image/2.1.2._Hernia_epigastrica_IMG3.png" media-type="image/png" />
+		<item id="x2.1.2._Hernia_epigastrica_img11.png" href="image/2.1.2._Hernia_epigastrica_img11.png" media-type="image/png" />
+		<item id="x2.1.2._Hernia_epigastrica_img21.png" href="image/2.1.2._Hernia_epigastrica_img21.png" media-type="image/png" />
+		<item id="x2.1.2._Hernia_epigastrica_IMG31.png" href="image/2.1.2._Hernia_epigastrica_IMG31.png" media-type="image/png" />
+		<item id="x2.1.3_img1.png" href="image/2.1.3_img1.png" media-type="image/png" />
+		<item id="x2.1.3_img2.png" href="image/2.1.3_img2.png" media-type="image/png" />
+		<item id="x2.1.3_img11.png" href="image/2.1.3_img11.png" media-type="image/png" />
+		<item id="x2.1.3._Hernia_inguinal_img1.png" href="image/2.1.3._Hernia_inguinal_img1.png" media-type="image/png" />
+		<item id="x2.1.3._Hernia_inguinal_img11.png" href="image/2.1.3._Hernia_inguinal_img11.png" media-type="image/png" />
+		<item id="x2.1.4._Hernia_umbilical_img1.png" href="image/2.1.4._Hernia_umbilical_img1.png" media-type="image/png" />
+		<item id="x2.1.4._Hernia_umbilical_img2.png" href="image/2.1.4._Hernia_umbilical_img2.png" media-type="image/png" />
+		<item id="x2.1.4._Hernia_umbilical_img3.png" href="image/2.1.4._Hernia_umbilical_img3.png" media-type="image/png" />
+		<item id="x2.1.4._Hernia_umbilical_img11.png" href="image/2.1.4._Hernia_umbilical_img11.png" media-type="image/png" />
+		<item id="x2.1.4._Hernia_umbilical_img21.png" href="image/2.1.4._Hernia_umbilical_img21.png" media-type="image/png" />
+		<item id="x2.1.4._Hernia_umbilical_img31.png" href="image/2.1.4._Hernia_umbilical_img31.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x3.1._Apendicitis_aguda_img1.png" href="image/3.1._Apendicitis_aguda_img1.png" media-type="image/png" />
+		<item id="x3.1._Apendicitis_aguda_img11.png" href="image/3.1._Apendicitis_aguda_img11.png" media-type="image/png" />
+		<item id="x3.2.1._Pancreatitis_aguda_img1.png" href="image/3.2.1._Pancreatitis_aguda_img1.png" media-type="image/png" />
+		<item id="x3.2.1._Pancreatitis_aguda_img11.png" href="image/3.2.1._Pancreatitis_aguda_img11.png" media-type="image/png" />
+		<item id="x3.2.2._Pancreatitis_cronica_img1.png" href="image/3.2.2._Pancreatitis_cronica_img1.png" media-type="image/png" />
+		<item id="x3.2.2._Pancreatitis_cronica_img2.png" href="image/3.2.2._Pancreatitis_cronica_img2.png" media-type="image/png" />
+		<item id="x3.2.2._Pancreatitis_cronica_img11.png" href="image/3.2.2._Pancreatitis_cronica_img11.png" media-type="image/png" />
+		<item id="x3.2.2._Pancreatitis_cronica_img21.png" href="image/3.2.2._Pancreatitis_cronica_img21.png" media-type="image/png" />
+		<item id="x3.3_img1.png" href="image/3.3_img1.png" media-type="image/png" />
+		<item id="x3.3_img11.png" href="image/3.3_img11.png" media-type="image/png" />
+		<item id="x3.3._Oclusion_intestinal_IMG1.png" href="image/3.3._Oclusion_intestinal_IMG1.png" media-type="image/png" />
+		<item id="x3.3._Oclusion_intestinal_img2.png" href="image/3.3._Oclusion_intestinal_img2.png" media-type="image/png" />
+		<item id="x3.3._Oclusion_intestinal_img3.png" href="image/3.3._Oclusion_intestinal_img3.png" media-type="image/png" />
+		<item id="x3.3._Oclusion_intestinal_img11.png" href="image/3.3._Oclusion_intestinal_img11.png" media-type="image/png" />
+		<item id="x3.3._Oclusion_intestinal_img21.png" href="image/3.3._Oclusion_intestinal_img21.png" media-type="image/png" />
+		<item id="x3.3._Oclusion_intestinal_img31.png" href="image/3.3._Oclusion_intestinal_img31.png" media-type="image/png" />
+		<item id="x3.4._Trombosis_mesenterica_img1.png" href="image/3.4._Trombosis_mesenterica_img1.png" media-type="image/png" />
+		<item id="x3.4._Trombosis_mesenterica_img2.png" href="image/3.4._Trombosis_mesenterica_img2.png" media-type="image/png" />
+		<item id="x3.4._Trombosis_mesenterica_img3.png" href="image/3.4._Trombosis_mesenterica_img3.png" media-type="image/png" />
+		<item id="x3.4._Trombosis_mesenterica_img11.png" href="image/3.4._Trombosis_mesenterica_img11.png" media-type="image/png" />
+		<item id="x3.4._Trombosis_mesenterica_img21.png" href="image/3.4._Trombosis_mesenterica_img21.png" media-type="image/png" />
+		<item id="x3.4._Trombosis_mesenterica_img31.png" href="image/3.4._Trombosis_mesenterica_img31.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x18.png" href="image/18.png" media-type="image/png" />
+		<item id="x19.png" href="image/19.png" media-type="image/png" />
+		<item id="x20.png" href="image/20.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="x22.png" href="image/22.png" media-type="image/png" />
+		<item id="x23.png" href="image/23.png" media-type="image/png" />
+		<item id="x24.png" href="image/24.png" media-type="image/png" />
+		<item id="x25.png" href="image/25.png" media-type="image/png" />
+		<item id="x26.png" href="image/26.png" media-type="image/png" />
+		<item id="x27.png" href="image/27.png" media-type="image/png" />
+		<item id="x28.png" href="image/28.png" media-type="image/png" />
+		<item id="x29.png" href="image/29.png" media-type="image/png" />
+		<item id="x30.png" href="image/30.png" media-type="image/png" />
+		<item id="x31.png" href="image/31.png" media-type="image/png" />
+		<item id="x32.png" href="image/32.png" media-type="image/png" />
+		<item id="x33.png" href="image/33.png" media-type="image/png" />
+		<item id="x34.png" href="image/34.png" media-type="image/png" />
+		<item id="x35.png" href="image/35.png" media-type="image/png" />
+		<item id="x36.png" href="image/36.png" media-type="image/png" />
+		<item id="x37.png" href="image/37.png" media-type="image/png" />
+		<item id="x38.png" href="image/38.png" media-type="image/png" />
+		<item id="x39.png" href="image/39.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x41.png" href="image/41.png" media-type="image/png" />
+		<item id="x42.png" href="image/42.png" media-type="image/png" />
+		<item id="x43.png" href="image/43.png" media-type="image/png" />
+		<item id="x44.png" href="image/44.png" media-type="image/png" />
+		<item id="x45.png" href="image/45.png" media-type="image/png" />
+		<item id="x46.png" href="image/46.png" media-type="image/png" />
+		<item id="x47.png" href="image/47.png" media-type="image/png" />
+		<item id="x48.png" href="image/48.png" media-type="image/png" />
+		<item id="x49.png" href="image/49.png" media-type="image/png" />
+		<item id="x50.png" href="image/50.png" media-type="image/png" />
+		<item id="x52.png" href="image/52.png" media-type="image/png" />
+		<item id="x54.png" href="image/54.png" media-type="image/png" />
+		<item id="x55.png" href="image/55.png" media-type="image/png" />
+		<item id="x56.png" href="image/56.png" media-type="image/png" />
+		<item id="x57.png" href="image/57.png" media-type="image/png" />
+		<item id="x58.png" href="image/58.png" media-type="image/png" />
+		<item id="x59.png" href="image/59.png" media-type="image/png" />
+		<item id="x60.png" href="image/60.png" media-type="image/png" />
+		<item id="x61.png" href="image/61.png" media-type="image/png" />
+		<item id="x62.png" href="image/62.png" media-type="image/png" />
+		<item id="x63.png" href="image/63.png" media-type="image/png" />
+		<item id="x66.png" href="image/66.png" media-type="image/png" />
+		<item id="x67.png" href="image/67.png" media-type="image/png" />
+		<item id="x68.png" href="image/68.png" media-type="image/png" />
+		<item id="x69.png" href="image/69.png" media-type="image/png" />
+		<item id="x70.png" href="image/70.png" media-type="image/png" />
+		<item id="x71.png" href="image/71.png" media-type="image/png" />
+		<item id="x72.png" href="image/72.png" media-type="image/png" />
+		<item id="x73.png" href="image/73.png" media-type="image/png" />
+		<item id="x74.png" href="image/74.png" media-type="image/png" />
+		<item id="x75.png" href="image/75.png" media-type="image/png" />
+		<item id="x76.png" href="image/76.png" media-type="image/png" />
+		<item id="x77.png" href="image/77.png" media-type="image/png" />
+		<item id="x78.png" href="image/78.png" media-type="image/png" />
+		<item id="x79.png" href="image/79.png" media-type="image/png" />
+		<item id="x80.png" href="image/80.png" media-type="image/png" />
+		<item id="x81.png" href="image/81.png" media-type="image/png" />
+		<item id="x83.png" href="image/83.png" media-type="image/png" />
+		<item id="x84.png" href="image/84.png" media-type="image/png" />
+		<item id="x85.png" href="image/85.png" media-type="image/png" />
+		<item id="x86.png" href="image/86.png" media-type="image/png" />
+		<item id="x87.png" href="image/87.png" media-type="image/png" />
+		<item id="x88.png" href="image/88.png" media-type="image/png" />
+		<item id="x90.png" href="image/90.png" media-type="image/png" />
+		<item id="x93.png" href="image/93.png" media-type="image/png" />
+		<item id="x94.png" href="image/94.png" media-type="image/png" />
+		<item id="x97.png" href="image/97.png" media-type="image/png" />
+		<item id="x100.png" href="image/100.png" media-type="image/png" />
+		<item id="x105.png" href="image/105.png" media-type="image/png" />
+		<item id="x106.png" href="image/106.png" media-type="image/png" />
+		<item id="x110.png" href="image/110.png" media-type="image/png" />
+		<item id="x112.png" href="image/112.png" media-type="image/png" />
+		<item id="x113.png" href="image/113.png" media-type="image/png" />
+		<item id="x115.png" href="image/115.png" media-type="image/png" />
+		<item id="x123.png" href="image/123.png" media-type="image/png" />
+		<item id="x132.png" href="image/132.png" media-type="image/png" />
+		<item id="x133.png" href="image/133.png" media-type="image/png" />
+		<item id="x134.png" href="image/134.png" media-type="image/png" />
+		<item id="x135.png" href="image/135.png" media-type="image/png" />
+		<item id="x136.png" href="image/136.png" media-type="image/png" />
+		<item id="x137.png" href="image/137.png" media-type="image/png" />
+		<item id="x138.png" href="image/138.png" media-type="image/png" />
+		<item id="x139.png" href="image/139.png" media-type="image/png" />
+		<item id="x141.png" href="image/141.png" media-type="image/png" />
+		<item id="x142.png" href="image/142.png" media-type="image/png" />
+		<item id="x144.png" href="image/144.png" media-type="image/png" />
+		<item id="x145.png" href="image/145.png" media-type="image/png" />
+		<item id="x146.png" href="image/146.png" media-type="image/png" />
+		<item id="x148.png" href="image/148.png" media-type="image/png" />
+		<item id="x149.png" href="image/149.png" media-type="image/png" />
+		<item id="x151.png" href="image/151.png" media-type="image/png" />
+		<item id="x152.png" href="image/152.png" media-type="image/png" />
+		<item id="x153.png" href="image/153.png" media-type="image/png" />
+		<item id="x154.png" href="image/154.png" media-type="image/png" />
+		<item id="x155.png" href="image/155.png" media-type="image/png" />
+		<item id="x158.png" href="image/158.png" media-type="image/png" />
+		<item id="x159.png" href="image/159.png" media-type="image/png" />
+		<item id="x161.png" href="image/161.png" media-type="image/png" />
+		<item id="x162.png" href="image/162.png" media-type="image/png" />
+		<item id="x163.png" href="image/163.png" media-type="image/png" />
+		<item id="x164.png" href="image/164.png" media-type="image/png" />
+		<item id="x168.png" href="image/168.png" media-type="image/png" />
+		<item id="x169.png" href="image/169.png" media-type="image/png" />
+		<item id="x170.png" href="image/170.png" media-type="image/png" />
+		<item id="x171.png" href="image/171.png" media-type="image/png" />
+		<item id="x172.png" href="image/172.png" media-type="image/png" />
+		<item id="x173.png" href="image/173.png" media-type="image/png" />
+		<item id="x174.png" href="image/174.png" media-type="image/png" />
+		<item id="x175.png" href="image/175.png" media-type="image/png" />
+		<item id="x176.png" href="image/176.png" media-type="image/png" />
+		<item id="x177.png" href="image/177.png" media-type="image/png" />
+		<item id="x178.png" href="image/178.png" media-type="image/png" />
+		<item id="x180.png" href="image/180.png" media-type="image/png" />
+		<item id="x182.png" href="image/182.png" media-type="image/png" />
+		<item id="x183.png" href="image/183.png" media-type="image/png" />
+		<item id="x184.png" href="image/184.png" media-type="image/png" />
+		<item id="x185.png" href="image/185.png" media-type="image/png" />
+		<item id="x187.png" href="image/187.png" media-type="image/png" />
+		<item id="x189.png" href="image/189.png" media-type="image/png" />
+		<item id="x190.png" href="image/190.png" media-type="image/png" />
+		<item id="x192.png" href="image/192.png" media-type="image/png" />
+		<item id="x193.png" href="image/193.png" media-type="image/png" />
+		<item id="x194.png" href="image/194.png" media-type="image/png" />
+		<item id="x195.png" href="image/195.png" media-type="image/png" />
+		<item id="x210.png" href="image/210.png" media-type="image/png" />
+		<item id="x211.png" href="image/211.png" media-type="image/png" />
+		<item id="x237.png" href="image/237.png" media-type="image/png" />
+		<item id="x239.png" href="image/239.png" media-type="image/png" />
+		<item id="x240.png" href="image/240.png" media-type="image/png" />
+		<item id="x250.png" href="image/250.png" media-type="image/png" />
+		<item id="x251.png" href="image/251.png" media-type="image/png" />
+		<item id="x252.png" href="image/252.png" media-type="image/png" />
+		<item id="x253.png" href="image/253.png" media-type="image/png" />
+		<item id="x254.png" href="image/254.png" media-type="image/png" />
+		<item id="x255.png" href="image/255.png" media-type="image/png" />
+		<item id="x256.png" href="image/256.png" media-type="image/png" />
+		<item id="x257.png" href="image/257.png" media-type="image/png" />
+		<item id="x258.png" href="image/258.png" media-type="image/png" />
+		<item id="x259.png" href="image/259.png" media-type="image/png" />
+		<item id="x260.png" href="image/260.png" media-type="image/png" />
+		<item id="x261.png" href="image/261.png" media-type="image/png" />
+		<item id="x263.png" href="image/263.png" media-type="image/png" />
+		<item id="x264.png" href="image/264.png" media-type="image/png" />
+		<item id="x265.png" href="image/265.png" media-type="image/png" />
+		<item id="x266.png" href="image/266.png" media-type="image/png" />
+		<item id="x270.png" href="image/270.png" media-type="image/png" />
+		<item id="x271.png" href="image/271.png" media-type="image/png" />
+		<item id="x272.png" href="image/272.png" media-type="image/png" />
+		<item id="x273.png" href="image/273.png" media-type="image/png" />
+		<item id="x274.png" href="image/274.png" media-type="image/png" />
+		<item id="x275.png" href="image/275.png" media-type="image/png" />
+		<item id="x276.png" href="image/276.png" media-type="image/png" />
+		<item id="x277.png" href="image/277.png" media-type="image/png" />
+		<item id="x278.png" href="image/278.png" media-type="image/png" />
+		<item id="x279.png" href="image/279.png" media-type="image/png" />
+		<item id="x280.png" href="image/280.png" media-type="image/png" />
+		<item id="x281.png" href="image/281.png" media-type="image/png" />
+		<item id="x286.png" href="image/286.png" media-type="image/png" />
+		<item id="x287.png" href="image/287.png" media-type="image/png" />
+		<item id="x288.png" href="image/288.png" media-type="image/png" />
+		<item id="x289.png" href="image/289.png" media-type="image/png" />
+		<item id="x290.png" href="image/290.png" media-type="image/png" />
+		<item id="x291.png" href="image/291.png" media-type="image/png" />
+		<item id="x292.png" href="image/292.png" media-type="image/png" />
+		<item id="x293.png" href="image/293.png" media-type="image/png" />
+		<item id="x294.png" href="image/294.png" media-type="image/png" />
+		<item id="x300.png" href="image/300.png" media-type="image/png" />
+		<item id="x313.png" href="image/313.png" media-type="image/png" />
+		<item id="x314.png" href="image/314.png" media-type="image/png" />
+		<item id="x315.png" href="image/315.png" media-type="image/png" />
+		<item id="x316.png" href="image/316.png" media-type="image/png" />
+		<item id="x317.png" href="image/317.png" media-type="image/png" />
+		<item id="x319.png" href="image/319.png" media-type="image/png" />
+		<item id="x320.png" href="image/320.png" media-type="image/png" />
+		<item id="x321.png" href="image/321.png" media-type="image/png" />
+		<item id="x322.png" href="image/322.png" media-type="image/png" />
+		<item id="x323.png" href="image/323.png" media-type="image/png" />
+		<item id="x325.png" href="image/325.png" media-type="image/png" />
+		<item id="x326.png" href="image/326.png" media-type="image/png" />
+		<item id="x350.png" href="image/350.png" media-type="image/png" />
+		<item id="x383.png" href="image/383.png" media-type="image/png" />
+		<item id="x387.png" href="image/387.png" media-type="image/png" />
+		<item id="x408.png" href="image/408.png" media-type="image/png" />
+		<item id="x421.png" href="image/421.png" media-type="image/png" />
+		<item id="x445.png" href="image/445.png" media-type="image/png" />
+		<item id="x446.png" href="image/446.png" media-type="image/png" />
+		<item id="x447.png" href="image/447.png" media-type="image/png" />
+		<item id="x448.png" href="image/448.png" media-type="image/png" />
+		<item id="x449.png" href="image/449.png" media-type="image/png" />
+		<item id="x451.png" href="image/451.png" media-type="image/png" />
+		<item id="x474.png" href="image/474.png" media-type="image/png" />
+		<item id="x481.png" href="image/481.png" media-type="image/png" />
+		<item id="x482.png" href="image/482.png" media-type="image/png" />
+		<item id="x483.png" href="image/483.png" media-type="image/png" />
+		<item id="x488.png" href="image/488.png" media-type="image/png" />
+		<item id="x489.png" href="image/489.png" media-type="image/png" />
+		<item id="x492.png" href="image/492.png" media-type="image/png" />
+		<item id="x494.png" href="image/494.png" media-type="image/png" />
+		<item id="x497.png" href="image/497.png" media-type="image/png" />
+		<item id="x498.png" href="image/498.png" media-type="image/png" />
+		<item id="x499.png" href="image/499.png" media-type="image/png" />
+		<item id="x501.png" href="image/501.png" media-type="image/png" />
+		<item id="x578.png" href="image/578.png" media-type="image/png" />
+		<item id="x579.png" href="image/579.png" media-type="image/png" />
+		<item id="x604.png" href="image/604.png" media-type="image/png" />
+		<item id="x615.png" href="image/615.png" media-type="image/png" />
+		<item id="x630.png" href="image/630.png" media-type="image/png" />
+		<item id="x681.png" href="image/681.png" media-type="image/png" />
+		<item id="x691.png" href="image/691.png" media-type="image/png" />
+		<item id="x695.png" href="image/695.png" media-type="image/png" />
+		<item id="x696.png" href="image/696.png" media-type="image/png" />
+		<item id="x698.png" href="image/698.png" media-type="image/png" />
+		<item id="x699.png" href="image/699.png" media-type="image/png" />
+		<item id="x701.png" href="image/701.png" media-type="image/png" />
+		<item id="x707.png" href="image/707.png" media-type="image/png" />
+		<item id="x708.png" href="image/708.png" media-type="image/png" />
+		<item id="x710.png" href="image/710.png" media-type="image/png" />
+		<item id="x711.png" href="image/711.png" media-type="image/png" />
+		<item id="x715.png" href="image/715.png" media-type="image/png" />
+		<item id="x716.png" href="image/716.png" media-type="image/png" />
+		<item id="x732.png" href="image/732.png" media-type="image/png" />
+		<item id="x733.png" href="image/733.png" media-type="image/png" />
+		<item id="x744.png" href="image/744.png" media-type="image/png" />
+		<item id="x745.png" href="image/745.png" media-type="image/png" />
+		<item id="x746.png" href="image/746.png" media-type="image/png" />
+		<item id="x757.png" href="image/757.png" media-type="image/png" />
+		<item id="x830.png" href="image/830.png" media-type="image/png" />
+		<item id="x840.png" href="image/840.png" media-type="image/png" />
+		<item id="x841.png" href="image/841.png" media-type="image/png" />
+		<item id="x842.png" href="image/842.png" media-type="image/png" />
+		<item id="x843.png" href="image/843.png" media-type="image/png" />
+		<item id="x844.png" href="image/844.png" media-type="image/png" />
+		<item id="x845.png" href="image/845.png" media-type="image/png" />
+		<item id="x846.png" href="image/846.png" media-type="image/png" />
+		<item id="x847.png" href="image/847.png" media-type="image/png" />
+		<item id="x852.png" href="image/852.png" media-type="image/png" />
+		<item id="x856.png" href="image/856.png" media-type="image/png" />
+		<item id="x866.png" href="image/866.png" media-type="image/png" />
+		<item id="x871.png" href="image/871.png" media-type="image/png" />
+		<item id="x876.png" href="image/876.png" media-type="image/png" />
+		<item id="x886.png" href="image/886.png" media-type="image/png" />
+		<item id="x891.png" href="image/891.png" media-type="image/png" />
+		<item id="x901.png" href="image/901.png" media-type="image/png" />
+		<item id="x906.png" href="image/906.png" media-type="image/png" />
+		<item id="x931.png" href="image/931.png" media-type="image/png" />
+		<item id="x935.png" href="image/935.png" media-type="image/png" />
+		<item id="x956.png" href="image/956.png" media-type="image/png" />
+		<item id="x961.png" href="image/961.png" media-type="image/png" />
+		<item id="x962.png" href="image/962.png" media-type="image/png" />
+		<item id="x963.png" href="image/963.png" media-type="image/png" />
+		<item id="x972.png" href="image/972.png" media-type="image/png" />
+		<item id="x974.png" href="image/974.png" media-type="image/png" />
+		<item id="x977.png" href="image/977.png" media-type="image/png" />
+		<item id="x982.png" href="image/982.png" media-type="image/png" />
+		<item id="x998.png" href="image/998.png" media-type="image/png" />
+		<item id="x1027.png" href="image/1027.png" media-type="image/png" />
+		<item id="x1037.png" href="image/1037.png" media-type="image/png" />
+		<item id="x1039.png" href="image/1039.png" media-type="image/png" />
+		<item id="x1042.png" href="image/1042.png" media-type="image/png" />
+		<item id="x1084.png" href="image/1084.png" media-type="image/png" />
+		<item id="x1088.png" href="image/1088.png" media-type="image/png" />
+		<item id="x1092.png" href="image/1092.png" media-type="image/png" />
+		<item id="x1097.png" href="image/1097.png" media-type="image/png" />
+		<item id="x1098.png" href="image/1098.png" media-type="image/png" />
+		<item id="x1099.png" href="image/1099.png" media-type="image/png" />
+		<item id="x1100.png" href="image/1100.png" media-type="image/png" />
+		<item id="x1101.png" href="image/1101.png" media-type="image/png" />
+		<item id="x1118.png" href="image/1118.png" media-type="image/png" />
+		<item id="x1126.png" href="image/1126.png" media-type="image/png" />
+		<item id="x1135.png" href="image/1135.png" media-type="image/png" />
+		<item id="x1144.png" href="image/1144.png" media-type="image/png" />
+		<item id="x1152.png" href="image/1152.png" media-type="image/png" />
+		<item id="x1153.png" href="image/1153.png" media-type="image/png" />
+		<item id="x1161.png" href="image/1161.png" media-type="image/png" />
+		<item id="x1170.png" href="image/1170.png" media-type="image/png" />
+		<item id="x1200.png" href="image/1200.png" media-type="image/png" />
+		<item id="x1310.png" href="image/1310.png" media-type="image/png" />
+		<item id="x1311.png" href="image/1311.png" media-type="image/png" />
+		<item id="x1312.png" href="image/1312.png" media-type="image/png" />
+		<item id="x1315.png" href="image/1315.png" media-type="image/png" />
+		<item id="x1317.png" href="image/1317.png" media-type="image/png" />
+		<item id="x1318.png" href="image/1318.png" media-type="image/png" />
+		<item id="x1321.png" href="image/1321.png" media-type="image/png" />
+		<item id="x1407.png" href="image/1407.png" media-type="image/png" />
+		<item id="x1433.png" href="image/1433.png" media-type="image/png" />
+		<item id="x1474.png" href="image/1474.png" media-type="image/png" />
+		<item id="x1502.png" href="image/1502.png" media-type="image/png" />
+		<item id="x1503.png" href="image/1503.png" media-type="image/png" />
+		<item id="x1504.png" href="image/1504.png" media-type="image/png" />
+		<item id="x1528.png" href="image/1528.png" media-type="image/png" />
+		<item id="x1544.png" href="image/1544.png" media-type="image/png" />
+		<item id="x1561.png" href="image/1561.png" media-type="image/png" />
+		<item id="x1574.png" href="image/1574.png" media-type="image/png" />
+		<item id="x1588.png" href="image/1588.png" media-type="image/png" />
+		<item id="x1620.png" href="image/1620.png" media-type="image/png" />
+		<item id="x1637.png" href="image/1637.png" media-type="image/png" />
+		<item id="x1797.png" href="image/1797.png" media-type="image/png" />
+		<item id="x1814.png" href="image/1814.png" media-type="image/png" />
+		<item id="x1822.png" href="image/1822.png" media-type="image/png" />
+		<item id="x1858.png" href="image/1858.png" media-type="image/png" />
+		<item id="x1871.png" href="image/1871.png" media-type="image/png" />
+		<item id="x1874.png" href="image/1874.png" media-type="image/png" />
+		<item id="x1876.png" href="image/1876.png" media-type="image/png" />
+		<item id="x1916.png" href="image/1916.png" media-type="image/png" />
+		<item id="x1921.png" href="image/1921.png" media-type="image/png" />
+		<item id="x1930.png" href="image/1930.png" media-type="image/png" />
+		<item id="x1938.png" href="image/1938.png" media-type="image/png" />
+		<item id="x1939.png" href="image/1939.png" media-type="image/png" />
+		<item id="x1964.png" href="image/1964.png" media-type="image/png" />
+		<item id="x1965.png" href="image/1965.png" media-type="image/png" />
+		<item id="x1967.png" href="image/1967.png" media-type="image/png" />
+		<item id="x1970.png" href="image/1970.png" media-type="image/png" />
+		<item id="x1976.png" href="image/1976.png" media-type="image/png" />
+		<item id="x1979.png" href="image/1979.png" media-type="image/png" />
+		<item id="x1980.png" href="image/1980.png" media-type="image/png" />
+		<item id="x1982.png" href="image/1982.png" media-type="image/png" />
+		<item id="x1985.png" href="image/1985.png" media-type="image/png" />
+		<item id="x1986.png" href="image/1986.png" media-type="image/png" />
+		<item id="x1988.png" href="image/1988.png" media-type="image/png" />
+		<item id="x1989.png" href="image/1989.png" media-type="image/png" />
+		<item id="x1990.png" href="image/1990.png" media-type="image/png" />
+		<item id="x1991.png" href="image/1991.png" media-type="image/png" />
+		<item id="x1992.png" href="image/1992.png" media-type="image/png" />
+		<item id="x1994.png" href="image/1994.png" media-type="image/png" />
+		<item id="x1996.png" href="image/1996.png" media-type="image/png" />
+		<item id="x2019.png" href="image/2019.png" media-type="image/png" />
+		<item id="x2022.png" href="image/2022.png" media-type="image/png" />
+		<item id="x2024.png" href="image/2024.png" media-type="image/png" />
+		<item id="x2027.png" href="image/2027.png" media-type="image/png" />
+		<item id="x2054.png" href="image/2054.png" media-type="image/png" />
+		<item id="x2056.png" href="image/2056.png" media-type="image/png" />
+		<item id="x2087.png" href="image/2087.png" media-type="image/png" />
+		<item id="x2090.png" href="image/2090.png" media-type="image/png" />
+		<item id="x2121.png" href="image/2121.png" media-type="image/png" />
+		<item id="x2124.png" href="image/2124.png" media-type="image/png" />
+		<item id="x2155.png" href="image/2155.png" media-type="image/png" />
+		<item id="x2158.png" href="image/2158.png" media-type="image/png" />
+		<item id="x2189.png" href="image/2189.png" media-type="image/png" />
+		<item id="x2226.png" href="image/2226.png" media-type="image/png" />
+		<item id="x2300.png" href="image/2300.png" media-type="image/png" />
+		<item id="x2304.png" href="image/2304.png" media-type="image/png" />
+		<item id="x2305.png" href="image/2305.png" media-type="image/png" />
+		<item id="x2317.png" href="image/2317.png" media-type="image/png" />
+		<item id="x2324.png" href="image/2324.png" media-type="image/png" />
+		<item id="x2344.png" href="image/2344.png" media-type="image/png" />
+		<item id="x2364.png" href="image/2364.png" media-type="image/png" />
+		<item id="x2413.png" href="image/2413.png" media-type="image/png" />
+		<item id="x2414.png" href="image/2414.png" media-type="image/png" />
+		<item id="x2430.png" href="image/2430.png" media-type="image/png" />
+		<item id="x2435.png" href="image/2435.png" media-type="image/png" />
+		<item id="x2437.png" href="image/2437.png" media-type="image/png" />
+		<item id="x2438.png" href="image/2438.png" media-type="image/png" />
+		<item id="x2447.png" href="image/2447.png" media-type="image/png" />
+		<item id="x2463.png" href="image/2463.png" media-type="image/png" />
+		<item id="x2472.png" href="image/2472.png" media-type="image/png" />
+		<item id="x2475.png" href="image/2475.png" media-type="image/png" />
+		<item id="x2506.png" href="image/2506.png" media-type="image/png" />
+		<item id="x2585.png" href="image/2585.png" media-type="image/png" />
+		<item id="x2605.png" href="image/2605.png" media-type="image/png" />
+		<item id="x2606.png" href="image/2606.png" media-type="image/png" />
+		<item id="x2609.png" href="image/2609.png" media-type="image/png" />
+		<item id="x2627.png" href="image/2627.png" media-type="image/png" />
+		<item id="x2654.png" href="image/2654.png" media-type="image/png" />
+		<item id="x2686.png" href="image/2686.png" media-type="image/png" />
+		<item id="x2722.png" href="image/2722.png" media-type="image/png" />
+		<item id="x2725.png" href="image/2725.png" media-type="image/png" />
+		<item id="x2768.png" href="image/2768.png" media-type="image/png" />
+		<item id="x2769.png" href="image/2769.png" media-type="image/png" />
+		<item id="x2771.png" href="image/2771.png" media-type="image/png" />
+		<item id="x2879.png" href="image/2879.png" media-type="image/png" />
+		<item id="x2910.png" href="image/2910.png" media-type="image/png" />
+		<item id="x2914.png" href="image/2914.png" media-type="image/png" />
+		<item id="x2916.png" href="image/2916.png" media-type="image/png" />
+		<item id="x2920.png" href="image/2920.png" media-type="image/png" />
+		<item id="x2975.png" href="image/2975.png" media-type="image/png" />
+		<item id="x2976.png" href="image/2976.png" media-type="image/png" />
+		<item id="x2977.png" href="image/2977.png" media-type="image/png" />
+		<item id="x2978.png" href="image/2978.png" media-type="image/png" />
+		<item id="x2990.png" href="image/2990.png" media-type="image/png" />
+		<item id="x3052.png" href="image/3052.png" media-type="image/png" />
+		<item id="x3086.png" href="image/3086.png" media-type="image/png" />
+		<item id="x3103.png" href="image/3103.png" media-type="image/png" />
+		<item id="x3149.png" href="image/3149.png" media-type="image/png" />
+		<item id="x3150.png" href="image/3150.png" media-type="image/png" />
+		<item id="x3177.png" href="image/3177.png" media-type="image/png" />
+		<item id="x3193.png" href="image/3193.png" media-type="image/png" />
+		<item id="x3194.png" href="image/3194.png" media-type="image/png" />
+		<item id="x3204.png" href="image/3204.png" media-type="image/png" />
+		<item id="x3217.png" href="image/3217.png" media-type="image/png" />
+		<item id="x3218.png" href="image/3218.png" media-type="image/png" />
+		<item id="x3269.png" href="image/3269.png" media-type="image/png" />
+		<item id="x3286.png" href="image/3286.png" media-type="image/png" />
+		<item id="x3287.png" href="image/3287.png" media-type="image/png" />
+		<item id="x3353.png" href="image/3353.png" media-type="image/png" />
+		<item id="x3396.png" href="image/3396.png" media-type="image/png" />
+		<item id="x3428.png" href="image/3428.png" media-type="image/png" />
+		<item id="x3580.png" href="image/3580.png" media-type="image/png" />
+		<item id="x3583.png" href="image/3583.png" media-type="image/png" />
+		<item id="x3616.png" href="image/3616.png" media-type="image/png" />
+		<item id="x3617.png" href="image/3617.png" media-type="image/png" />
+		<item id="x3619.png" href="image/3619.png" media-type="image/png" />
+		<item id="x3676.png" href="image/3676.png" media-type="image/png" />
+		<item id="x3677.png" href="image/3677.png" media-type="image/png" />
+		<item id="x3687.png" href="image/3687.png" media-type="image/png" />
+		<item id="x3702.png" href="image/3702.png" media-type="image/png" />
+		<item id="x3774.png" href="image/3774.png" media-type="image/png" />
+		<item id="x3775.png" href="image/3775.png" media-type="image/png" />
+		<item id="x3777.png" href="image/3777.png" media-type="image/png" />
+		<item id="x3821.png" href="image/3821.png" media-type="image/png" />
+		<item id="x3866.png" href="image/3866.png" media-type="image/png" />
+		<item id="x3868.png" href="image/3868.png" media-type="image/png" />
+		<item id="x3890.png" href="image/3890.png" media-type="image/png" />
+		<item id="x3924.png" href="image/3924.png" media-type="image/png" />
+		<item id="x3949.png" href="image/3949.png" media-type="image/png" />
+		<item id="x3950.png" href="image/3950.png" media-type="image/png" />
+		<item id="x3965.png" href="image/3965.png" media-type="image/png" />
+		<item id="x3985.png" href="image/3985.png" media-type="image/png" />
+		<item id="x4005.png" href="image/4005.png" media-type="image/png" />
+		<item id="x4014.png" href="image/4014.png" media-type="image/png" />
+		<item id="x4016.png" href="image/4016.png" media-type="image/png" />
+		<item id="x4028.png" href="image/4028.png" media-type="image/png" />
+		<item id="x4038.png" href="image/4038.png" media-type="image/png" />
+		<item id="x4046.png" href="image/4046.png" media-type="image/png" />
+		<item id="x4067.png" href="image/4067.png" media-type="image/png" />
+		<item id="x4160.png" href="image/4160.png" media-type="image/png" />
+		<item id="x4167.png" href="image/4167.png" media-type="image/png" />
+		<item id="x4172.png" href="image/4172.png" media-type="image/png" />
+		<item id="x4179.png" href="image/4179.png" media-type="image/png" />
+		<item id="x4192.png" href="image/4192.png" media-type="image/png" />
+		<item id="x4196.png" href="image/4196.png" media-type="image/png" />
+		<item id="x4209.png" href="image/4209.png" media-type="image/png" />
+		<item id="x4219.png" href="image/4219.png" media-type="image/png" />
+		<item id="x4220.png" href="image/4220.png" media-type="image/png" />
+		<item id="x4221.png" href="image/4221.png" media-type="image/png" />
+		<item id="x4231.png" href="image/4231.png" media-type="image/png" />
+		<item id="x4244.png" href="image/4244.png" media-type="image/png" />
+		<item id="x4245.png" href="image/4245.png" media-type="image/png" />
+		<item id="x4246.png" href="image/4246.png" media-type="image/png" />
+		<item id="x4259.png" href="image/4259.png" media-type="image/png" />
+		<item id="x4267.png" href="image/4267.png" media-type="image/png" />
+		<item id="x4273.png" href="image/4273.png" media-type="image/png" />
+		<item id="x4291.png" href="image/4291.png" media-type="image/png" />
+		<item id="x4301.png" href="image/4301.png" media-type="image/png" />
+		<item id="x4303.png" href="image/4303.png" media-type="image/png" />
+		<item id="x4308.png" href="image/4308.png" media-type="image/png" />
+		<item id="x4309.png" href="image/4309.png" media-type="image/png" />
+		<item id="x4310.png" href="image/4310.png" media-type="image/png" />
+		<item id="x4311.png" href="image/4311.png" media-type="image/png" />
+		<item id="x4312.png" href="image/4312.png" media-type="image/png" />
+		<item id="x4313.png" href="image/4313.png" media-type="image/png" />
+		<item id="x4314.png" href="image/4314.png" media-type="image/png" />
+		<item id="x4349.png" href="image/4349.png" media-type="image/png" />
+		<item id="x4356.png" href="image/4356.png" media-type="image/png" />
+		<item id="x4357.png" href="image/4357.png" media-type="image/png" />
+		<item id="x4468.png" href="image/4468.png" media-type="image/png" />
+		<item id="x4488.png" href="image/4488.png" media-type="image/png" />
+		<item id="x4504.png" href="image/4504.png" media-type="image/png" />
+		<item id="x4508.png" href="image/4508.png" media-type="image/png" />
+		<item id="x4509.png" href="image/4509.png" media-type="image/png" />
+		<item id="x4524.png" href="image/4524.png" media-type="image/png" />
+		<item id="x4525.png" href="image/4525.png" media-type="image/png" />
+		<item id="x4544.png" href="image/4544.png" media-type="image/png" />
+		<item id="x4550.png" href="image/4550.png" media-type="image/png" />
+		<item id="x4600.png" href="image/4600.png" media-type="image/png" />
+		<item id="x4621.png" href="image/4621.png" media-type="image/png" />
+		<item id="x4639.png" href="image/4639.png" media-type="image/png" />
+		<item id="x4667.png" href="image/4667.png" media-type="image/png" />
+		<item id="x4673.png" href="image/4673.png" media-type="image/png" />
+		<item id="x4716.png" href="image/4716.png" media-type="image/png" />
+		<item id="x4733.png" href="image/4733.png" media-type="image/png" />
+		<item id="x4766.png" href="image/4766.png" media-type="image/png" />
+		<item id="x4768.png" href="image/4768.png" media-type="image/png" />
+		<item id="x4801.png" href="image/4801.png" media-type="image/png" />
+		<item id="x4827.png" href="image/4827.png" media-type="image/png" />
+		<item id="x4844.png" href="image/4844.png" media-type="image/png" />
+		<item id="x4856.png" href="image/4856.png" media-type="image/png" />
+		<item id="x4867.png" href="image/4867.png" media-type="image/png" />
+		<item id="x4882.png" href="image/4882.png" media-type="image/png" />
+		<item id="x4900.png" href="image/4900.png" media-type="image/png" />
+		<item id="x4901.png" href="image/4901.png" media-type="image/png" />
+		<item id="x4902.png" href="image/4902.png" media-type="image/png" />
+		<item id="x4903.png" href="image/4903.png" media-type="image/png" />
+		<item id="x4907.png" href="image/4907.png" media-type="image/png" />
+		<item id="x4909.png" href="image/4909.png" media-type="image/png" />
+		<item id="x5000.png" href="image/5000.png" media-type="image/png" />
+		<item id="x5020.png" href="image/5020.png" media-type="image/png" />
+		<item id="x5021.png" href="image/5021.png" media-type="image/png" />
+		<item id="x5031.png" href="image/5031.png" media-type="image/png" />
+		<item id="x5041.png" href="image/5041.png" media-type="image/png" />
+		<item id="x5069.png" href="image/5069.png" media-type="image/png" />
+		<item id="x5073.png" href="image/5073.png" media-type="image/png" />
+		<item id="x5074.png" href="image/5074.png" media-type="image/png" />
+		<item id="x5081.png" href="image/5081.png" media-type="image/png" />
+		<item id="x5082.png" href="image/5082.png" media-type="image/png" />
+		<item id="x5110.png" href="image/5110.png" media-type="image/png" />
+		<item id="x5114.png" href="image/5114.png" media-type="image/png" />
+		<item id="x5115.png" href="image/5115.png" media-type="image/png" />
+		<item id="x5116.png" href="image/5116.png" media-type="image/png" />
+		<item id="x5128.png" href="image/5128.png" media-type="image/png" />
+		<item id="x5149.png" href="image/5149.png" media-type="image/png" />
+		<item id="x5166.png" href="image/5166.png" media-type="image/png" />
+		<item id="x5173.png" href="image/5173.png" media-type="image/png" />
+		<item id="x5175.png" href="image/5175.png" media-type="image/png" />
+		<item id="x5195.png" href="image/5195.png" media-type="image/png" />
+		<item id="x5208.png" href="image/5208.png" media-type="image/png" />
+		<item id="x5227.png" href="image/5227.png" media-type="image/png" />
+		<item id="x5228.png" href="image/5228.png" media-type="image/png" />
+		<item id="x5239.png" href="image/5239.png" media-type="image/png" />
+		<item id="x5240.png" href="image/5240.png" media-type="image/png" />
+		<item id="x5250.png" href="image/5250.png" media-type="image/png" />
+		<item id="x5269.png" href="image/5269.png" media-type="image/png" />
+		<item id="x5270.png" href="image/5270.png" media-type="image/png" />
+		<item id="x5280.png" href="image/5280.png" media-type="image/png" />
+		<item id="x5352.png" href="image/5352.png" media-type="image/png" />
+		<item id="x5375.png" href="image/5375.png" media-type="image/png" />
+		<item id="x5376.png" href="image/5376.png" media-type="image/png" />
+		<item id="x5382.png" href="image/5382.png" media-type="image/png" />
+		<item id="x5418.png" href="image/5418.png" media-type="image/png" />
+		<item id="x5419.png" href="image/5419.png" media-type="image/png" />
+		<item id="x5470.png" href="image/5470.png" media-type="image/png" />
+		<item id="x5773.png" href="image/5773.png" media-type="image/png" />
+		<item id="x5774.png" href="image/5774.png" media-type="image/png" />
+		<item id="x5927.png" href="image/5927.png" media-type="image/png" />
+		<item id="x5928.png" href="image/5928.png" media-type="image/png" />
+		<item id="x5929.png" href="image/5929.png" media-type="image/png" />
+		<item id="x5930.png" href="image/5930.png" media-type="image/png" />
+		<item id="x5931.png" href="image/5931.png" media-type="image/png" />
+		<item id="x5932.png" href="image/5932.png" media-type="image/png" />
+		<item id="x5933.png" href="image/5933.png" media-type="image/png" />
+		<item id="x5934.png" href="image/5934.png" media-type="image/png" />
+		<item id="x5936.png" href="image/5936.png" media-type="image/png" />
+		<item id="x5937.png" href="image/5937.png" media-type="image/png" />
+		<item id="x5939.png" href="image/5939.png" media-type="image/png" />
+		<item id="x5940.png" href="image/5940.png" media-type="image/png" />
+		<item id="x5941.png" href="image/5941.png" media-type="image/png" />
+		<item id="x5943.png" href="image/5943.png" media-type="image/png" />
+		<item id="x5946.png" href="image/5946.png" media-type="image/png" />
+		<item id="x5947.png" href="image/5947.png" media-type="image/png" />
+		<item id="x5948.png" href="image/5948.png" media-type="image/png" />
+		<item id="x5949.png" href="image/5949.png" media-type="image/png" />
+		<item id="x5950.png" href="image/5950.png" media-type="image/png" />
+		<item id="x5953.png" href="image/5953.png" media-type="image/png" />
+		<item id="x5957.png" href="image/5957.png" media-type="image/png" />
+		<item id="x5958.png" href="image/5958.png" media-type="image/png" />
+		<item id="x5959.png" href="image/5959.png" media-type="image/png" />
+		<item id="x5962.png" href="image/5962.png" media-type="image/png" />
+		<item id="x5963.png" href="image/5963.png" media-type="image/png" />
+		<item id="x5964.png" href="image/5964.png" media-type="image/png" />
+		<item id="x5965.png" href="image/5965.png" media-type="image/png" />
+		<item id="x5966.png" href="image/5966.png" media-type="image/png" />
+		<item id="x5967.png" href="image/5967.png" media-type="image/png" />
+		<item id="x5968.png" href="image/5968.png" media-type="image/png" />
+		<item id="x5971.png" href="image/5971.png" media-type="image/png" />
+		<item id="x5972.png" href="image/5972.png" media-type="image/png" />
+		<item id="x5973.png" href="image/5973.png" media-type="image/png" />
+		<item id="x5974.png" href="image/5974.png" media-type="image/png" />
+		<item id="x5975.png" href="image/5975.png" media-type="image/png" />
+		<item id="x5976.png" href="image/5976.png" media-type="image/png" />
+		<item id="x5977.png" href="image/5977.png" media-type="image/png" />
+		<item id="x5978.png" href="image/5978.png" media-type="image/png" />
+		<item id="x5979.png" href="image/5979.png" media-type="image/png" />
+		<item id="x5980.png" href="image/5980.png" media-type="image/png" />
+		<item id="x5981.png" href="image/5981.png" media-type="image/png" />
+		<item id="x5982.png" href="image/5982.png" media-type="image/png" />
+		<item id="x5983.png" href="image/5983.png" media-type="image/png" />
+		<item id="x5984.png" href="image/5984.png" media-type="image/png" />
+		<item id="x5985.png" href="image/5985.png" media-type="image/png" />
+		<item id="x5986.png" href="image/5986.png" media-type="image/png" />
+		<item id="x5988.png" href="image/5988.png" media-type="image/png" />
+		<item id="x5989.png" href="image/5989.png" media-type="image/png" />
+		<item id="x5990.png" href="image/5990.png" media-type="image/png" />
+		<item id="x5991.png" href="image/5991.png" media-type="image/png" />
+		<item id="x5992.png" href="image/5992.png" media-type="image/png" />
+		<item id="x5993.png" href="image/5993.png" media-type="image/png" />
+		<item id="x5995.png" href="image/5995.png" media-type="image/png" />
+		<item id="x5998.png" href="image/5998.png" media-type="image/png" />
+		<item id="x5999.png" href="image/5999.png" media-type="image/png" />
+		<item id="x6000.png" href="image/6000.png" media-type="image/png" />
+		<item id="x6002.png" href="image/6002.png" media-type="image/png" />
+		<item id="x6005.png" href="image/6005.png" media-type="image/png" />
+		<item id="x6010.png" href="image/6010.png" media-type="image/png" />
+		<item id="x6011.png" href="image/6011.png" media-type="image/png" />
+		<item id="x6015.png" href="image/6015.png" media-type="image/png" />
+		<item id="x6017.png" href="image/6017.png" media-type="image/png" />
+		<item id="x6018.png" href="image/6018.png" media-type="image/png" />
+		<item id="x6020.png" href="image/6020.png" media-type="image/png" />
+		<item id="x6028.png" href="image/6028.png" media-type="image/png" />
+		<item id="x6037.png" href="image/6037.png" media-type="image/png" />
+		<item id="x6038.png" href="image/6038.png" media-type="image/png" />
+		<item id="x6039.png" href="image/6039.png" media-type="image/png" />
+		<item id="x6040.png" href="image/6040.png" media-type="image/png" />
+		<item id="x6041.png" href="image/6041.png" media-type="image/png" />
+		<item id="x6042.png" href="image/6042.png" media-type="image/png" />
+		<item id="x6043.png" href="image/6043.png" media-type="image/png" />
+		<item id="x6044.png" href="image/6044.png" media-type="image/png" />
+		<item id="x6045.png" href="image/6045.png" media-type="image/png" />
+		<item id="x6046.png" href="image/6046.png" media-type="image/png" />
+		<item id="x6047.png" href="image/6047.png" media-type="image/png" />
+		<item id="x6048.png" href="image/6048.png" media-type="image/png" />
+		<item id="x6049.png" href="image/6049.png" media-type="image/png" />
+		<item id="x6050.png" href="image/6050.png" media-type="image/png" />
+		<item id="x6051.png" href="image/6051.png" media-type="image/png" />
+		<item id="x6052.png" href="image/6052.png" media-type="image/png" />
+		<item id="x6053.png" href="image/6053.png" media-type="image/png" />
+		<item id="x6054.png" href="image/6054.png" media-type="image/png" />
+		<item id="x6055.png" href="image/6055.png" media-type="image/png" />
+		<item id="x6056.png" href="image/6056.png" media-type="image/png" />
+		<item id="x6057.png" href="image/6057.png" media-type="image/png" />
+		<item id="x6058.png" href="image/6058.png" media-type="image/png" />
+		<item id="x6059.png" href="image/6059.png" media-type="image/png" />
+		<item id="x6060.png" href="image/6060.png" media-type="image/png" />
+		<item id="x6061.png" href="image/6061.png" media-type="image/png" />
+		<item id="x6062.png" href="image/6062.png" media-type="image/png" />
+		<item id="x6063.png" href="image/6063.png" media-type="image/png" />
+		<item id="x6064.png" href="image/6064.png" media-type="image/png" />
+		<item id="x6065.png" href="image/6065.png" media-type="image/png" />
+		<item id="x6067.png" href="image/6067.png" media-type="image/png" />
+		<item id="x6068.png" href="image/6068.png" media-type="image/png" />
+		<item id="x6071.png" href="image/6071.png" media-type="image/png" />
+		<item id="x6072.png" href="image/6072.png" media-type="image/png" />
+		<item id="x6074.png" href="image/6074.png" media-type="image/png" />
+		<item id="x6075.png" href="image/6075.png" media-type="image/png" />
+		<item id="x6076.png" href="image/6076.png" media-type="image/png" />
+		<item id="x6077.png" href="image/6077.png" media-type="image/png" />
+		<item id="x6078.png" href="image/6078.png" media-type="image/png" />
+		<item id="x6079.png" href="image/6079.png" media-type="image/png" />
+		<item id="x6080.png" href="image/6080.png" media-type="image/png" />
+		<item id="x6081.png" href="image/6081.png" media-type="image/png" />
+		<item id="x6082.png" href="image/6082.png" media-type="image/png" />
+		<item id="x6083.png" href="image/6083.png" media-type="image/png" />
+		<item id="a.png" href="image/a.png" media-type="image/png" />
+		<item id="b.png" href="image/b.png" media-type="image/png" />
+		<item id="brn_subt3.3_1.png" href="image/brn_subt3.3_1.png" media-type="image/png" />
+		<item id="brn_subt3.3_2.png" href="image/brn_subt3.3_2.png" media-type="image/png" />
+		<item id="btn_cerrar.png" href="image/btn_cerrar.png" media-type="image/png" />
+		<item id="btn_cg1_on.png" href="image/btn_cg1_on.png" media-type="image/png" />
+		<item id="btn_cg1.png" href="image/btn_cg1.png" media-type="image/png" />
+		<item id="btn_cg2_on.png" href="image/btn_cg2_on.png" media-type="image/png" />
+		<item id="btn_cg2.png" href="image/btn_cg2.png" media-type="image/png" />
+		<item id="btn_cg3_on.png" href="image/btn_cg3_on.png" media-type="image/png" />
+		<item id="btn_cg3.png" href="image/btn_cg3.png" media-type="image/png" />
+		<item id="btn_cg4_on.png" href="image/btn_cg4_on.png" media-type="image/png" />
+		<item id="btn_cg4.png" href="image/btn_cg4.png" media-type="image/png" />
+		<item id="btn_cg5.png" href="image/btn_cg5.png" media-type="image/png" />
+		<item id="btn_cg6.png" href="image/btn_cg6.png" media-type="image/png" />
+		<item id="btn_contenido_1cg.png" href="image/btn_contenido_1cg.png" media-type="image/png" />
+		<item id="btn_contenido_2cg.png" href="image/btn_contenido_2cg.png" media-type="image/png" />
+		<item id="btn_gpc_off.png" href="image/btn_gpc_off.png" media-type="image/png" />
+		<item id="btn_gpc_off1.png" href="image/btn_gpc_off1.png" media-type="image/png" />
+		<item id="btn_gpc_on.png" href="image/btn_gpc_on.png" media-type="image/png" />
+		<item id="btn_more.png" href="image/btn_more.png" media-type="image/png" />
+		<item id="btn_next_off.png" href="image/btn_next_off.png" media-type="image/png" />
+		<item id="btn_next_on.png" href="image/btn_next_on.png" media-type="image/png" />
+		<item id="btn_off_compendio.png" href="image/btn_off_compendio.png" media-type="image/png" />
+		<item id="btn_off.png" href="image/btn_off.png" media-type="image/png" />
+		<item id="btn_off1.png" href="image/btn_off1.png" media-type="image/png" />
+		<item id="btn_off2.png" href="image/btn_off2.png" media-type="image/png" />
+		<item id="btn_off3.png" href="image/btn_off3.png" media-type="image/png" />
+		<item id="btn_off4.png" href="image/btn_off4.png" media-type="image/png" />
+		<item id="btn_off5.png" href="image/btn_off5.png" media-type="image/png" />
+		<item id="btn_on.png" href="image/btn_on.png" media-type="image/png" />
+		<item id="btn_on1.png" href="image/btn_on1.png" media-type="image/png" />
+		<item id="btn_on2.png" href="image/btn_on2.png" media-type="image/png" />
+		<item id="btn_on3.png" href="image/btn_on3.png" media-type="image/png" />
+		<item id="btn_perlas_clinicas_off.png" href="image/btn_perlas_clinicas_off.png" media-type="image/png" />
+		<item id="btn_perlas_clinicas_off1.png" href="image/btn_perlas_clinicas_off1.png" media-type="image/png" />
+		<item id="btn_perlas_clinicas_off2.png" href="image/btn_perlas_clinicas_off2.png" media-type="image/png" />
+		<item id="btn_perlas_clinicas_on.png" href="image/btn_perlas_clinicas_on.png" media-type="image/png" />
+		<item id="btn_pre_off.png" href="image/btn_pre_off.png" media-type="image/png" />
+		<item id="btn_pre_on.png" href="image/btn_pre_on.png" media-type="image/png" />
+		<item id="btn_tabla.png" href="image/btn_tabla.png" media-type="image/png" />
+		<item id="btn_tabla1.png" href="image/btn_tabla1.png" media-type="image/png" />
+		<item id="btn_tigar-0.png" href="image/btn_tigar-0.png" media-type="image/png" />
+		<item id="btn_tigar-1.png" href="image/btn_tigar-1.png" media-type="image/png" />
+		<item id="btn_tigar-2.png" href="image/btn_tigar-2.png" media-type="image/png" />
+		<item id="btn_tigar-3.png" href="image/btn_tigar-3.png" media-type="image/png" />
+		<item id="btn_tigar-4.png" href="image/btn_tigar-4.png" media-type="image/png" />
+		<item id="btn_tigar-5.png" href="image/btn_tigar-5.png" media-type="image/png" />
+		<item id="btn_tigar-6.png" href="image/btn_tigar-6.png" media-type="image/png" />
+		<item id="btn1_off.png" href="image/btn1_off.png" media-type="image/png" />
+		<item id="btn1_off1.png" href="image/btn1_off1.png" media-type="image/png" />
+		<item id="btn1_on.png" href="image/btn1_on.png" media-type="image/png" />
+		<item id="btn2_off.png" href="image/btn2_off.png" media-type="image/png" />
+		<item id="btn2_off2.png" href="image/btn2_off2.png" media-type="image/png" />
+		<item id="btn2_on.png" href="image/btn2_on.png" media-type="image/png" />
+		<item id="btn2_on2.png" href="image/btn2_on2.png" media-type="image/png" />
+		<item id="c_compendio.png" href="image/c_compendio.png" media-type="image/png" />
+		<item id="c_fuentes_consulta.png" href="image/c_fuentes_consulta.png" media-type="image/png" />
+		<item id="c_general.png" href="image/c_general.png" media-type="image/png" />
+		<item id="c_general1.png" href="image/c_general1.png" media-type="image/png" />
+		<item id="c_introducci_n.png" href="image/c_introducci_n.png" media-type="image/png" />
+		<item id="c_prologo.png" href="image/c_prologo.png" media-type="image/png" />
+		<item id="c_subtema1.1.png" href="image/c_subtema1.1.png" media-type="image/png" />
+		<item id="c_subtema1.2.png" href="image/c_subtema1.2.png" media-type="image/png" />
+		<item id="c_subtema1.3.png" href="image/c_subtema1.3.png" media-type="image/png" />
+		<item id="c_subtema2.1.png" href="image/c_subtema2.1.png" media-type="image/png" />
+		<item id="c_subtema2.2.png" href="image/c_subtema2.2.png" media-type="image/png" />
+		<item id="c_subtema2.3.png" href="image/c_subtema2.3.png" media-type="image/png" />
+		<item id="c_subtema2.4.png" href="image/c_subtema2.4.png" media-type="image/png" />
+		<item id="c_subtema3.1.png" href="image/c_subtema3.1.png" media-type="image/png" />
+		<item id="c_subtema3.2.1.png" href="image/c_subtema3.2.1.png" media-type="image/png" />
+		<item id="c_subtema3.2.2.png" href="image/c_subtema3.2.2.png" media-type="image/png" />
+		<item id="c_subtema3.3.png" href="image/c_subtema3.3.png" media-type="image/png" />
+		<item id="c_subtema3.4.png" href="image/c_subtema3.4.png" media-type="image/png" />
+		<item id="c_utilizar_libro.png" href="image/c_utilizar_libro.png" media-type="image/png" />
+		<item id="c.png" href="image/c.png" media-type="image/png" />
+		<item id="cg_estructura.png" href="image/cg_estructura.png" media-type="image/png" />
+		<item id="cg_estructura1.png" href="image/cg_estructura1.png" media-type="image/png" />
+		<item id="cg_estructura2.png" href="image/cg_estructura2.png" media-type="image/png" />
+		<item id="cg_estructura3.png" href="image/cg_estructura3.png" media-type="image/png" />
+		<item id="cg_estructura4.png" href="image/cg_estructura4.png" media-type="image/png" />
+		<item id="cg_estructura5.png" href="image/cg_estructura5.png" media-type="image/png" />
+		<item id="contraportada_unidad_azul.png" href="image/contraportada_unidad_azul.png" media-type="image/png" />
+		<item id="cp_creditos.png" href="image/cp_creditos.png" media-type="image/png" />
+		<item id="cp_directorio.png" href="image/cp_directorio.png" media-type="image/png" />
+		<item id="d.png" href="image/d.png" media-type="image/png" />
+		<item id="e.png" href="image/e.png" media-type="image/png" />
+		<item id="f.png" href="image/f.png" media-type="image/png" />
+		<item id="fichero_concepto_sbt3.1.png" href="image/fichero_concepto_sbt3.1.png" media-type="image/png" />
+		<item id="fichero_concepto2_sbt1.1.png" href="image/fichero_concepto2_sbt1.1.png" media-type="image/png" />
+		<item id="fichero1_inicio_subt1.1.png" href="image/fichero1_inicio_subt1.1.png" media-type="image/png" />
+		<item id="fichero1_inicio_subt1.11.png" href="image/fichero1_inicio_subt1.11.png" media-type="image/png" />
+		<item id="g.png" href="image/g.png" media-type="image/png" />
+		<item id="h.png" href="image/h.png" media-type="image/png" />
+		<item id="i.png" href="image/i.png" media-type="image/png" />
+		<item id="icono_touch.png" href="image/icono_touch.png" media-type="image/png" />
+		<item id="icono_touch1.png" href="image/icono_touch1.png" media-type="image/png" />
+		<item id="icono_touch2.png" href="image/icono_touch2.png" media-type="image/png" />
+		<item id="icono_touch3.png" href="image/icono_touch3.png" media-type="image/png" />
+		<item id="icono_touch4.png" href="image/icono_touch4.png" media-type="image/png" />
+		<item id="icono_touch5.png" href="image/icono_touch5.png" media-type="image/png" />
+		<item id="icono_zoom.png" href="image/icono_zoom.png" media-type="image/png" />
+		<item id="icono_zoom1.png" href="image/icono_zoom1.png" media-type="image/png" />
+		<item id="image_subt3.3_1.png" href="image/image_subt3.3_1.png" media-type="image/png" />
+		<item id="image_subt3.3_2.png" href="image/image_subt3.3_2.png" media-type="image/png" />
+		<item id="image_subt3.3_11.png" href="image/image_subt3.3_11.png" media-type="image/png" />
+		<item id="introduccion_cirugia.png" href="image/introduccion_cirugia.png" media-type="image/png" />
+		<item id="introduccion_cirugia1.png" href="image/introduccion_cirugia1.png" media-type="image/png" />
+		<item id="j.png" href="image/j.png" media-type="image/png" />
+		<item id="k.png" href="image/k.png" media-type="image/png" />
+		<item id="l.png" href="image/l.png" media-type="image/png" />
+		<item id="m.png" href="image/m.png" media-type="image/png" />
+		<item id="min_p50.png" href="image/min_p50.png" media-type="image/png" />
+		<item id="min_p109.png" href="image/min_p109.png" media-type="image/png" />
+		<item id="n.png" href="image/n.png" media-type="image/png" />
+		<item id="o.png" href="image/o.png" media-type="image/png" />
+		<item id="p_indice.png" href="image/p_indice.png" media-type="image/png" />
+		<item id="p.png" href="image/p.png" media-type="image/png" />
+		<item id="portada_unidad_azul.png" href="image/portada_unidad_azul.png" media-type="image/png" />
+		<item id="protada_cirugia_v1.png" href="image/protada_cirugia_v1.png" media-type="image/png" />
+		<item id="q.png" href="image/q.png" media-type="image/png" />
+		<item id="r.png" href="image/r.png" media-type="image/png" />
+		<item id="rc1_subt3.2.1_inicio.png" href="image/rc1_subt3.2.1_inicio.png" media-type="image/png" />
+		<item id="rc3_subt1.1_btn1.png" href="image/rc3_subt1.1_btn1.png" media-type="image/png" />
+		<item id="rc3_subt1.1_btn2.png" href="image/rc3_subt1.1_btn2.png" media-type="image/png" />
+		<item id="rc3_subt1.1_btn3.png" href="image/rc3_subt1.1_btn3.png" media-type="image/png" />
+		<item id="rc3_subt1.1_btn4.png" href="image/rc3_subt1.1_btn4.png" media-type="image/png" />
+		<item id="rc3_subt1.1_btn5.png" href="image/rc3_subt1.1_btn5.png" media-type="image/png" />
+		<item id="rc4_subt1.1_inicio.png" href="image/rc4_subt1.1_inicio.png" media-type="image/png" />
+		<item id="rc5_subt1.1_btn1.png" href="image/rc5_subt1.1_btn1.png" media-type="image/png" />
+		<item id="rc5_subt1.1_btn2.png" href="image/rc5_subt1.1_btn2.png" media-type="image/png" />
+		<item id="rc5_subt1.1_btn3.png" href="image/rc5_subt1.1_btn3.png" media-type="image/png" />
+		<item id="rc5_subt1.1_btn4.png" href="image/rc5_subt1.1_btn4.png" media-type="image/png" />
+		<item id="rc5_subt1.1_btn5.png" href="image/rc5_subt1.1_btn5.png" media-type="image/png" />
+		<item id="rc5_subt1.1_btn21.png" href="image/rc5_subt1.1_btn21.png" media-type="image/png" />
+		<item id="rc5_subt1.1_inicio.png" href="image/rc5_subt1.1_inicio.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn1.png" href="image/rc6_subt1.1_btn1.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn1on.png" href="image/rc6_subt1.1_btn1on.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn2.png" href="image/rc6_subt1.1_btn2.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn2on.png" href="image/rc6_subt1.1_btn2on.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn3.png" href="image/rc6_subt1.1_btn3.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn3on.png" href="image/rc6_subt1.1_btn3on.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn4.png" href="image/rc6_subt1.1_btn4.png" media-type="image/png" />
+		<item id="rc6_subt1.1_btn4on.png" href="image/rc6_subt1.1_btn4on.png" media-type="image/png" />
+		<item id="s.png" href="image/s.png" media-type="image/png" />
+		<item id="signo_de_cullen.png" href="image/signo_de_cullen.png" media-type="image/png" />
+		<item id="signo_de_cullen1.png" href="image/signo_de_cullen1.png" media-type="image/png" />
+		<item id="signo_de_grey-turner.png" href="image/signo_de_grey-turner.png" media-type="image/png" />
+		<item id="signo_de_grey-turner1.png" href="image/signo_de_grey-turner1.png" media-type="image/png" />
+		<item id="sub2.4_btn1off.png" href="image/sub2.4_btn1off.png" media-type="image/png" />
+		<item id="sub2.4_btn2off.png" href="image/sub2.4_btn2off.png" media-type="image/png" />
+		<item id="t.png" href="image/t.png" media-type="image/png" />
+		<item id="u.png" href="image/u.png" media-type="image/png" />
+		<item id="v.png" href="image/v.png" media-type="image/png" />
+		<item id="w.png" href="image/w.png" media-type="image/png" />
+		<item id="y.png" href="image/y.png" media-type="image/png" />
+		<item id="z.png" href="image/z.png" media-type="image/png" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="cg_cirugia-1" />
+		<itemref idref="cg_cirugia-2" />
+		<itemref idref="cg_cirugia-3" />
+		<itemref idref="cg_cirugia-4" />
+		<itemref idref="cg_cirugia-5" />
+		<itemref idref="cg_cirugia-6" />
+		<itemref idref="cg_cirugia-7" />
+		<itemref idref="cg_cirugia-8" />
+		<itemref idref="cg_cirugia-9" />
+		<itemref idref="cg_cirugia-10" />
+		<itemref idref="cg_cirugia-11" />
+		<itemref idref="cg_cirugia-12" />
+		<itemref idref="cg_cirugia-13" />
+		<itemref idref="cg_cirugia-14" />
+		<itemref idref="cg_cirugia-15" />
+		<itemref idref="t1_1_cirugia-1" />
+		<itemref idref="t1_1_cirugia-2" />
+		<itemref idref="t1_1_cirugia-3" />
+		<itemref idref="t1_1_cirugia-4" />
+		<itemref idref="t1_1_cirugia-5" />
+		<itemref idref="t1_1_cirugia-6" />
+		<itemref idref="t1_1_cirugia-7" />
+		<itemref idref="t1_1_cirugia-8" />
+		<itemref idref="t1_1_cirugia-9" />
+		<itemref idref="t1_1_cirugia-10" />
+		<itemref idref="t1_1_cirugia-11" />
+		<itemref idref="t1_1_cirugia-12" />
+		<itemref idref="t1_1_cirugia-13" />
+		<itemref idref="t1_1_cirugia-14" />
+		<itemref idref="t1_1_cirugia-15" />
+		<itemref idref="t1_1_cirugia-16" />
+		<itemref idref="t1_1_cirugia-17" />
+		<itemref idref="t1_2_cirugia-1" />
+		<itemref idref="t1_2_cirugia-2" />
+		<itemref idref="t1_2_cirugia-3" />
+		<itemref idref="t1_2_cirugia-4" />
+		<itemref idref="t1_2_cirugia-5" />
+		<itemref idref="t1_2_cirugia-6" />
+		<itemref idref="t1_2_cirugia-7" />
+		<itemref idref="t1_2_cirugia-8" />
+		<itemref idref="t1_2_cirugia-9" />
+		<itemref idref="t1_2_cirugia-10" />
+		<itemref idref="t1_2_cirugia-11" />
+		<itemref idref="t1_2_cirugia-12" />
+		<itemref idref="t1_2_cirugia-13" />
+		<itemref idref="t1_3_cirugia-1" />
+		<itemref idref="t1_3_cirugia-2" />
+		<itemref idref="t1_3_cirugia-3" />
+		<itemref idref="t1_3_cirugia-4" />
+		<itemref idref="t1_3_cirugia-5" />
+		<itemref idref="t1_3_cirugia-6" />
+		<itemref idref="t1_3_cirugia-7" />
+		<itemref idref="t1_3_cirugia-8" />
+		<itemref idref="t1_3_cirugia-9" />
+		<itemref idref="t1_3_cirugia-10" />
+		<itemref idref="t1_3_cirugia-11" />
+		<itemref idref="t1_3_cirugia-12" />
+		<itemref idref="t1_3_cirugia-13" />
+		<itemref idref="t2_1_cirugia-1" />
+		<itemref idref="t2_1_cirugia-2" />
+		<itemref idref="t2_1_cirugia-3" />
+		<itemref idref="t2_1_cirugia-4" />
+		<itemref idref="t2_1_cirugia-5" />
+		<itemref idref="t2_1_cirugia-6" />
+		<itemref idref="t2_1_cirugia-7" />
+		<itemref idref="t2_1_cirugia-8" />
+		<itemref idref="t2_2_cirugia-1" />
+		<itemref idref="t2_2_cirugia-2" />
+		<itemref idref="t2_2_cirugia-3" />
+		<itemref idref="t2_2_cirugia-4" />
+		<itemref idref="t2_2_cirugia-5" />
+		<itemref idref="t2_2_cirugia-6" />
+		<itemref idref="t2_2_cirugia-7" />
+		<itemref idref="t2_3_cirugia-1" />
+		<itemref idref="t2_3_cirugia-2" />
+		<itemref idref="t2_3_cirugia-3" />
+		<itemref idref="t2_3_cirugia-4" />
+		<itemref idref="t2_3_cirugia-5" />
+		<itemref idref="t2_3_cirugia-6" />
+		<itemref idref="t2_3_cirugia-7" />
+		<itemref idref="t2_3_cirugia-8" />
+		<itemref idref="t2_3_cirugia-9" />
+		<itemref idref="t2_4_cirugia-1" />
+		<itemref idref="t2_4_cirugia-2" />
+		<itemref idref="t2_4_cirugia-3" />
+		<itemref idref="t2_4_cirugia-4" />
+		<itemref idref="t2_4_cirugia-5" />
+		<itemref idref="t2_4_cirugia-6" />
+		<itemref idref="t2_4_cirugia-7" />
+		<itemref idref="t2_4_cirugia-8" />
+		<itemref idref="t2_4_cirugia-9" />
+		<itemref idref="t3_1_cirugia-1" />
+		<itemref idref="t3_1_cirugia-2" />
+		<itemref idref="t3_1_cirugia-3" />
+		<itemref idref="t3_1_cirugia-4" />
+		<itemref idref="t3_1_cirugia-5" />
+		<itemref idref="t3_1_cirugia-6" />
+		<itemref idref="t3_1_cirugia-7" />
+		<itemref idref="t3_1_cirugia-8" />
+		<itemref idref="t3_1_cirugia-9" />
+		<itemref idref="t3_1_cirugia-10" />
+		<itemref idref="t3_1_cirugia-11" />
+		<itemref idref="t3_1_cirugia-12" />
+		<itemref idref="t3_1_cirugia-13" />
+		<itemref idref="t3_1_cirugia-14" />
+		<itemref idref="t3_1_cirugia-15" />
+		<itemref idref="t3_1_cirugia-16" />
+		<itemref idref="t3_1_cirugia-17" />
+		<itemref idref="t3_1_cirugia-18" />
+		<itemref idref="t3_1_cirugia-19" />
+		<itemref idref="t3_1_cirugia-20" />
+		<itemref idref="t3_2_1_cirugia-1" />
+		<itemref idref="t3_2_1_cirugia-2" />
+		<itemref idref="t3_2_1_cirugia-3" />
+		<itemref idref="t3_2_1_cirugia-4" />
+		<itemref idref="t3_2_1_cirugia-5" />
+		<itemref idref="t3_2_1_cirugia-6" />
+		<itemref idref="t3_2_1_cirugia-7" />
+		<itemref idref="t3_2_1_cirugia-8" />
+		<itemref idref="t3_2_1_cirugia-9" />
+		<itemref idref="t3_2_1_cirugia-10" />
+		<itemref idref="t3_2_1_cirugia-11" />
+		<itemref idref="t3_2_1_cirugia-12" />
+		<itemref idref="t3_2_1_cirugia-13" />
+		<itemref idref="t3_2_1_cirugia-14" />
+		<itemref idref="t3_2_2_cirugia-1" />
+		<itemref idref="t3_2_2_cirugia-2" />
+		<itemref idref="t3_2_2_cirugia-3" />
+		<itemref idref="t3_2_2_cirugia-4" />
+		<itemref idref="t3_2_2_cirugia-5" />
+		<itemref idref="t3_2_2_cirugia-6" />
+		<itemref idref="t3_2_2_cirugia-7" />
+		<itemref idref="t3_2_2_cirugia-8" />
+		<itemref idref="t3_2_2_cirugia-9" />
+		<itemref idref="t3_2_2_cirugia-10" />
+		<itemref idref="t3_2_2_cirugia-11" />
+		<itemref idref="t3_3_cirugia-1" />
+		<itemref idref="t3_3_cirugia-2" />
+		<itemref idref="t3_3_cirugia-3" />
+		<itemref idref="t3_3_cirugia-4" />
+		<itemref idref="t3_3_cirugia-5" />
+		<itemref idref="t3_3_cirugia-6" />
+		<itemref idref="t3_3_cirugia-7" />
+		<itemref idref="t3_3_cirugia-8" />
+		<itemref idref="t3_3_cirugia-9" />
+		<itemref idref="t3_4_cirugia-1" />
+		<itemref idref="t3_4_cirugia-2" />
+		<itemref idref="t3_4_cirugia-3" />
+		<itemref idref="t3_4_cirugia-4" />
+		<itemref idref="t3_4_cirugia-5" />
+		<itemref idref="t3_4_cirugia-6" />
+		<itemref idref="t3_4_cirugia-7" />
+		<itemref idref="t3_4_cirugia-8" />
+		<itemref idref="t3_4_cirugia-9" />
+		<itemref idref="t3_4_cirugia-10" />
+		<itemref idref="compendio_cirugia-1" />
+		<itemref idref="compendio_cirugia-2" />
+		<itemref idref="compendio_cirugia-3" />
+		<itemref idref="compendio_cirugia-4" />
+		<itemref idref="compendio_cirugia-5" />
+		<itemref idref="compendio_cirugia-6" />
+		<itemref idref="contraportada_cirugia-1" />
+		<itemref idref="contraportada_cirugia-2" />
+		<itemref idref="contraportada_cirugia-3" />
+		<itemref idref="contraportada_cirugia-4" />
+		<itemref idref="contraportada_cirugia-5" />
+		<itemref idref="contraportada_cirugia-6" />
+		<itemref idref="contraportada_cirugia-7" />
+		<itemref idref="contraportada_cirugia-8" />
+		<itemref idref="contraportada_cirugia-9" />
+		<itemref idref="contraportada_cirugia-10" />
+		<itemref idref="contraportada_cirugia-11" />
+		<itemref idref="contraportada_cirugia-12" />
+		<itemref idref="contraportada_cirugia-13" />
+		<itemref idref="contraportada_cirugia-14" />
+		<itemref idref="contraportada_cirugia-15" />
+		<itemref idref="contraportada_cirugia-16" />
+		<itemref idref="contraportada_cirugia-17" />
+		<itemref idref="contraportada_cirugia-18" />
+		<itemref idref="contraportada_cirugia-19" />
+		<itemref idref="contraportada_cirugia-20" />
+		<itemref idref="contraportada_cirugia-21" />
+		<itemref idref="contraportada_cirugia-22" />
+		<itemref idref="contraportada_cirugia-23" />
+		<itemref idref="contraportada_cirugia-24" />
+		<itemref idref="contraportada_cirugia-25" />
+		<itemref idref="contraportada_cirugia-26" />
+		<itemref idref="contraportada_cirugia-27" />
+		<itemref idref="contraportada_cirugia-28" />
+		<itemref idref="contraportada_cirugia-29" />
+		<itemref idref="contraportada_cirugia-30" />
+		<itemref idref="contraportada_cirugia-31" />
+		<itemref idref="contraportada_cirugia-32" />
+		<itemref idref="contraportada_cirugia-33" />
+		<itemref idref="contraportada_cirugia-34" />
+		<itemref idref="contraportada_cirugia-35" />
+		<itemref idref="contraportada_cirugia-36" />
+	</spine>
+</package>

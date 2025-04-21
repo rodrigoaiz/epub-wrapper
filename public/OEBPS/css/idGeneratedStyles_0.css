@@ -1,0 +1,135 @@
+@font-face {
+	font-family:Arial;
+	font-style:italic;
+	font-weight:bold;
+	src : url("../font/Arial-BoldItalicMT.ttf");
+}
+@font-face {
+	font-family:Arial;
+	font-style:oblique;
+	font-weight:bold;
+	src : url("../font/Arial-BoldItalicMT.ttf");
+}
+@font-face {
+	font-family:Arial;
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/Arial-BoldMT.ttf");
+}
+@font-face {
+	font-family:Arial;
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/Arial-ItalicMT.ttf");
+}
+@font-face {
+	font-family:Arial;
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/Arial-ItalicMT.ttf");
+}
+@font-face {
+	font-family:Arial;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/ArialMT.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+	text-rendering:optimizeSpeed;
+}
+div._idGenButton div._idGen-Appearance-Normal {
+	visibility:visible;
+}
+div._idGenButton div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenButton div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenButton {
+	cursor:pointer;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Rollover {
+	visibility:visible;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Click {
+	visibility:visible;
+}
+div._idGenStateHide div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenStateHide div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenStateHide div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenMSO {
+	visibility:hidden;
+}
+div._idGenMSO div._idGenCurrentState {
+	visibility:visible;
+}
+div._idGenMSO._idGenStateHide div._idGenCurrentState {
+	visibility:hidden;
+}
+div._idGenStateHide div._idGenMSO div._idGenCurrentState {
+	visibility:hidden;
+}
+div._idGenStateHide, div._idGenStateHide *{
+	visibility:hidden;
+}
+div.Marco-de-texto-b-sico {
+	border-style:solid;
+}
+div.btn_naranja_cg {
+	border-color:#eda157;
+	border-width:4px;
+	border-style:solid;
+	border-radius:10px 10px 10px 10px;
+}
+div.c_text_linea_degradado {
+	border-style:solid;
+}
+div.c_text_transparente {
+	border-style:solid;
+}
+div.cuadro_boton_trans_off {
+	border-style:solid;
+}
+div.cuadro_boton_trans_on {
+	border-style:solid;
+}
+div.lightbox_blanco {
+	border-style:solid;
+	background-color:#ffffff;
+}
+div.linea_degradado {
+	border-style:solid;
+	border-radius:12px 12px 12px 12px;
+}
+div.linea_punteada {
+	border-color:#057d9e;
+	border-width:3px;
+	border-style:dotted;
+	border-radius:12px 12px 12px 12px;
+}
+div.logos {
+	border-style:solid;
+	background-color:#66616b;
+}
