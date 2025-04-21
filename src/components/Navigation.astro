@@ -1,0 +1,69 @@
+---
+const { title } = Astro.props;
+---
+
+<div class="toc-wrapper">
+  <h1>{title}</h1>
+  <nav id="toc">
+    <h2>Contents</h2>
+    <ol>
+      <li><a href="cg_cirugia-4.xhtml">Índice</a></li>
+      <li><a href="cg_cirugia-6.xhtml">Prólogo</a></li>
+      <li><a href="cg_cirugia-8.xhtml">Agradecimientos</a></li>
+      <li><a href="cg_cirugia-9.xhtml">¿Cómo utilizar este libro?</a></li>
+      <li><a href="cg_cirugia-12.xhtml">Introducción</a></li>
+      <li><a href="t1_1_cirugia-1.xhtml">Patología de la vía biliar</a>
+        <ol>
+          <li><a href="t1_1_cirugia-2.xhtml">Colecistitis aguda y crónica</a></li>
+          <li><a href="t1_2_cirugia-1.xhtml">Ictericia obstructiva:</a></li>
+          <li><a href="t1_2_cirugia-1.xhtml">colangitis y coledocolitiasis</a></li>
+          <li><a href="t1_3_cirugia-1.xhtml">Tumores de vesícula y vías biliares: cáncer de vesícula biliar y colangiocarcinoma</a></li>
+        </ol>
+      </li>
+      <li><a href="t2_1_cirugia-1.xhtml">Patologías de la pared abdominal</a>
+        <ol>
+          <li><a href="t2_1_cirugia-2.xhtml">Hernia femoral</a></li>
+          <li><a href="t2_2_cirugia-1.xhtml">Hernia epigástrica</a></li>
+          <li><a href="t2_3_cirugia-1.xhtml">Hernia inguinal</a></li>
+          <li><a href="t2_4_cirugia-1.xhtml">Hernia umbilical</a></li>
+        </ol>
+      </li>
+      <li><a href="t3_1_cirugia-1.xhtml">Síndrome doloroso abdominal</a>
+        <ol>
+          <li><a href="t3_1_cirugia-2.xhtml">Apendicitis aguda</a></li>
+          <li><a href="t3_2_1_cirugia-1.xhtml">Pancreatitis aguda</a></li>
+          <li><a href="t3_2_2_cirugia-1.xhtml">Pancreatitis crónica</a></li>
+          <li><a href="t3_3_cirugia-1.xhtml">Oclusión intestinal (OI): mecánica y no mecánica</a></li>
+          <li><a href="t3_4_cirugia-1.xhtml">Trombosis mesentérica</a></li>
+        </ol>
+      </li>
+      <li><a href="compendio_cirugia-1.xhtml">Compendio de imágenes</a></li>
+      <li><a href="contraportada_cirugia-1.xhtml">Fuentes de consulta</a></li>
+      <li><a href="contraportada_cirugia-29.xhtml">Directorio</a></li>
+      <li><a href="contraportada_cirugia-31.xhtml">Créditos</a></li>
+    </ol>
+  </nav>
+</div>
+
+<style>
+.toc-wrapper {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.toc-wrapper h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.toc-wrapper nav {
+  margin-bottom: 20px;
+}
+
+.toc-wrapper ol {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+</style>

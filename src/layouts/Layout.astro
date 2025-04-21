@@ -1,3 +1,7 @@
+---
+import Navigation from '../components/Navigation.astro';
+const { title } = Astro.props;
+---
 <!doctype html>
 <html lang="en">
 	<head>
@@ -8,7 +12,12 @@
 		<title>Astro Basics</title>
 	</head>
 	<body>
-		<slot />
+		<template>
+			<div>
+				<Navigation title={title} />
+				<slot />
+			</div>
+		</template>
 	</body>
 </html>
 
