@@ -1,49 +1,31 @@
-# Astro Starter Kit: Basics
+# EPUB Wrapper
 
-```sh
-npm create astro@latest -- --template basics
-```
+Este proyecto es un envoltorio (wrapper) web para mostrar contenido EPUB usando Astro. Proporciona una interfaz simple con capacidades de navegación y visualización de contenido.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## 🚀 Configuración del Proyecto
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+1. **Instalar Dependencias:**
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+    ```sh
+    npm install
+    ```
 
-## 🚀 Project Structure
+## 🧞 Comandos
 
-Inside of your Astro project, you'll see the following folders and files:
+Todos los comandos se ejecutan desde la raíz del proyecto, en una terminal:
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+| Comando         | Acción                                                    |
+| :-------------- | :-------------------------------------------------------- |
+| `npm run dev`   | Inicia el servidor de desarrollo local en `localhost:4321` |
+| `npm run build` | Construye tu sitio para producción en `./dist/`           |
+| `npm run preview`| Previsualiza tu compilación localmente, antes de desplegar |
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## Estructura del Proyecto
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-# epub-wrapper
+* `public/`: Contiene el contenido EPUB desempaquetado (como XHTML, CSS, imágenes) y activos estáticos.
+* `src/`: Contiene los componentes, layouts, páginas y estilos de Astro para la interfaz del wrapper.
+  * `src/components/`: Componentes de UI reutilizables (ej., [`Navigation.astro`](src/components/Navigation.astro), [`ContentViewer.tsx`](src/components/ContentViewer.tsx)).
+  * `src/layouts/`: Estructura base del layout (ej., [`Layout.astro`](src/layouts/Layout.astro)).
+  * `src/pages/`: Páginas de Astro (aunque este proyecto podría usar principalmente renderizado del lado del cliente dentro del layout).
+* `astro.config.mjs`: Archivo de configuración de Astro.
+* `package.json`: Dependencias y scripts del proyecto.
